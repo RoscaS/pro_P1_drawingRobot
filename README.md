@@ -12,8 +12,7 @@
 * intersection des cercles 
     > ok
     * [dermine where two circles intersect](http://csharphelper.com/blog/2014/09/determine-where-two-circles-intersect-in-c/)
-* sortbydistance
-    > nom de l'algo stp google est super vague sur le sujet
+* sortbydistance:
 
 
 sortByDistance
