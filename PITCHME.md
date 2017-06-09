@@ -1,3 +1,5 @@
+
+---
 # Projet P1: part II
 <br>
 _not a simulator anymore_
@@ -8,11 +10,11 @@ $$ \large Erwan \quad Bueche, \quad Sol \quad Rosca $$
 <br>
 et biensur, moi... l'artiste
 
-----
+---
 
 
 
 test
 
 
-----
+---
