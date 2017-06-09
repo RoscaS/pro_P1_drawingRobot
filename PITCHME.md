@@ -10,9 +10,12 @@ Erwan Bueche, Damian Petroff
 <p align="left">et biensur, moi... l'artiste</p>
 -->
 
+---
 
----?image=/00illustrations/base.png
 ---?image=/00illustrations/draw.gif
+
+---
+
 ---?image=/00illustrations/base.png
 
 
