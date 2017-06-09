@@ -5,7 +5,7 @@
 $$ not\;a\;simulator\;anymore $$
 <br>
 <br>
-Fabien Mottier, Sol Rosca
+Fabien Mottier, Sol Rosca  
 Erwan Bueche, Damian Petroff 
 <br>
 et biensur, moi... l'artiste
