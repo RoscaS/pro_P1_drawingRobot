@@ -3,9 +3,61 @@
 ## Drawing Robot soon won't be a simulator anymore
 
 
+PRESENTATION: LUNDI 12.6.17 - 9:30
+
+RDV: Lundi 8:10 devant salle 320
+
+TODO:
+
+Erwan (1m)
+    * Intro
+    * Rappel du cahier des charges
+
+Sol (3m)
+    * Analyse et solutions retenues
+    * Gestion de projet(méthodologie, communication interne, etc...)
+
+Fabien (4m)
+    * Etat de l'implémentation / Respect du cahier des charges
+
+Erwan (4m)
+    * demo
+
+Damian (3m)
+    * Etat d'avancement et planning pour la phase d'intégration
+
+
+Erwan: derniers bug-fixs et scaling + créer démo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ### Algorithmes utilisés
 
-* bresenham  
+* bressenham  
     * [Algorithme de tracé de segment de Bresenham](https://fr.wikipedia.org/wiki/Algorithme_de_trac%C3%A9_de_segment_de_Bresenham)
 * dijkstra
     > ok
@@ -36,8 +88,10 @@ private List<PixelPointF> SortByDistance(List<PixelPointF> lst)
     }
     return output;
 }
+}
 ```
 
+     
 nearestPoint
 ```c#
 private int NearestPoint(PixelPointF srcPt, List<PixelPointF> lookIn)
@@ -62,3 +116,61 @@ private int NearestPoint(PixelPointF srcPt, List<PixelPointF> lookIn)
     return smallestDistance.Value;
 }
 ```
+
+
+
+Circle intersection
+```c#
+private int FindCircleCircleIntersections(float cx0, float cy0, float radius0, float cx1, float cy1, float radius1, out PointF intersection1, out PointF intersection2)
+{
+    // Find the distance between the centers.
+    float dx = cx0 - cx1;
+    float dy = cy0 - cy1;
+    double dist = Math.Sqrt(dx * dx + dy * dy);
+
+    // See how many solutions there are.
+    if (dist > radius0 + radius1)
+    {
+        // No solutions, the circles are too far apart.
+        intersection1 = new PointF(float.NaN, float.NaN);
+        intersection2 = new PointF(float.NaN, float.NaN);
+        return 0;
+    }
+    else if (dist < Math.Abs(radius0 - radius1))
+    {
+        // No solutions, one circle contains the other.
+        intersection1 = new PointF(float.NaN, float.NaN);
+        intersection2 = new PointF(float.NaN, float.NaN);
+        return 0;
+    }
+    else if ((dist == 0) && (radius0 == radius1))
+    {
+        // No solutions, the circles coincide.
+        intersection1 = new PointF(float.NaN, float.NaN);
+        intersection2 = new PointF(float.NaN, float.NaN);
+        return 0;
+    }
+    else
+    {
+        // Find a and h.
+        double a = (radius0 * radius0 - radius1 * radius1 + dist * dist) / (2 * dist);
+        double h = Math.Sqrt(radius0 * radius0 - a * a);
+
+        // Find P2.
+        double cx2 = cx0 + a * (cx1 - cx0) / dist;
+        double cy2 = cy0 + a * (cy1 - cy0) / dist;
+
+        // Get the points P3.
+        intersection1 = new PointF(
+            (float)(cx2 + h * (cy1 - cy0) / dist),
+            (float)(cy2 - h * (cx1 - cx0) / dist));
+        intersection2 = new PointF(
+            (float)(cx2 - h * (cy1 - cy0) / dist),
+            (float)(cy2 + h * (cx1 - cx0) / dist));
+
+        // See if we have 1 or 2 solutions.
+        if (dist == radius0 + radius1) return 1;
+        return 2;
+    }
+}
+```-->
