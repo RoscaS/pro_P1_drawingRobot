@@ -5,9 +5,10 @@
 
 PRESENTATION: LUNDI 12.6.17 - 9:30
 
-RDV: Lundi 8:10 devant salle 320
+**RDV: Lundi 8:10 devant salle 320**
 
-TODO:
+## TODO:
+
 
 Erwan (1m)
     * Intro
