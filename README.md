@@ -33,9 +33,42 @@ PRESENTATION: LUNDI 12.6.17 - 9:30
 
 
 
+* Simulateur : bras sous forme de traits calculés à l’aide de l’algo d’intersection des cercles
+
+* Trouver le chemin du bras du robot : classement des points dans un ordre qui optimise le chemin du bras (algo approximatif) amélioration possible : dijkstra (pas implémenté) actuellement le programme met quelque temps à calculer le chemin avant de commencer à dessiner. Dijkstra nous permettrait de commencer tout de suite avec une solution approximée.
+
+* Gestion live des données : sous forme de liste d’objets contenant des coordonnées et un état de stylo (levé/baissé)
+
+* Tramage : analyse de l’image pour définir un dégradé de 4 gris appliqués au dessin grâce à un tramage. (Exemple dans la démo)
+
+* Bluetooth : feet32 utilisé et sync grace à l’outil windows
 
 
 
+
+### Etat de l’implémentation
+
+Programme fonctionnel mais pas encore foolproof (utilisable par les dévs)
+
+Webcam : pas encore implémentée
+
+Dessin user : OK
+
+Sauvegarde de liste : buguée (scaling)
+
+Lecture de liste : OK
+
+Lecture d’image : OK
+
+Simulateur : OK
+
+### Planning futur :
+
+Rendre le programme ergonomique et gérer tous les cas et exceptions
+
+Implémeter la webcam
+
+Régler les problèmes de mise à l’échelle sur la sauvegarde de fichier de listes
 
 
 
