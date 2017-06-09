@@ -1,12 +1,12 @@
 
----
-# Projet P1: part II
+
+# $$ Projet P1: part II $$
 <br>
-_not a simulator anymore_
+$$ not a simulator anymore $$
 <br>
 <br>
-$$ \large Fabien \quad Mottier, \quad Damian \quad Petroff $$
-$$ \large Erwan \quad Bueche, \quad Sol \quad Rosca $$
+Fabien Mottier, Damian Petroff 
+Erwan Bueche, Sol Rosca 
 <br>
 et biensur, moi... l'artiste
 
