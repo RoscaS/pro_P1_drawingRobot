@@ -10,25 +10,25 @@ PRESENTATION: LUNDI 12.6.17 - 9:30
 ## TODO:
 
 
-Erwan (1m)
-    * Intro
-    * Rappel du cahier des charges
+**Erwan** (1m)
+* Intro
+* Rappel du cahier des charges
 
-Sol (3m)
-    * Analyse et solutions retenues
-    * Gestion de projet(méthodologie, communication interne, etc...)
+**Sol** (3m)
+* Analyse et solutions retenues
+* Gestion de projet(méthodologie, communication interne, etc...)
 
-Fabien (4m)
-    * Etat de l'implémentation / Respect du cahier des charges
+**Fabien** (4m)
+* Etat de l'implémentation / Respect du cahier des charges
 
-Erwan (4m)
-    * demo
+**Erwan** (4m)
+* demo
 
-Damian (3m)
-    * Etat d'avancement et planning pour la phase d'intégration
+**Damian** (3m)
+* Etat d'avancement et planning pour la phase d'intégration
 
 
-Erwan: derniers bug-fixs et scaling + créer démo.
+**Erwan**: derniers bug-fixs et scaling + créer démo.
 
 
 
