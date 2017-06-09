@@ -11,6 +11,8 @@ Erwan Bueche, Damian Petroff
 <br>
 et biensur, moi... l'artiste
 
+<img src="/00illustrations/robot1.png" height="200" float="right">
+
 ---
 
 
