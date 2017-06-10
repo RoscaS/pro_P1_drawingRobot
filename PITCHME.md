@@ -64,18 +64,23 @@ Classement des points dans une liste dans un ordre qui optimise le chemin du bra
 </p>
 
 
-+++?code=01code/chemin.cs&lang=cs
++++?code=01code/sortByDist.cs&lang=cs
 
 $ \rightarrow $ `sortByDist()`
 @[3-4](List declaration)
 @[6-8](Appending coords)
 
 
-+++?code=01code/chemin.cs&lang=cs
++++?code=01code/nearestPoint.cs&lang=cs
 
 $ \rightarrow $ `nearestPoint()`
-@[39-43](compute distance)
-@[6-8](Appending coords)
+@[4-5](smallestDistance initialisation)
+@[7-13](loop over point list & compute distances)
+@[15-27](find the smallest distance and return it to `sortByDist()`)
+
+$ \rightarrow $ `sortByDist()`
+@[10-10](poule)
+@[14-20](cochon)
 
 
 +++
