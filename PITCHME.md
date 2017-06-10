@@ -41,16 +41,17 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++?code=01code/intCerc.cs&lang=cs 
 
-@[1-3](`int circlesIntersect()` <br> header)
-@[10-12](find the distance between the centers)
-@[15-20](No solution case 1: $\quad$ circles too far apart)
-@[22-27](No solution case 2: $\quad$ one circle $\subset$ the other)
-@[29-34](No solution case 3: $\quad$ circle 1 $\equiv$ circle 2)
-@[36-36](Else: $\quad$ there is at least one solution)
-@[38-39](Find $\large a $ and $\large h $)
-@[41-42](Find P2)
-@[44-49](Get the points P3)
-@[51-54](Another solution?)
+`int circlesIntersect()`
+@[1-3](header)
+@[5-7](find the distance between the centers)
+@[9-14](No solution case 1: $\quad$ circles too far apart)
+@[16-21](No solution case 2: $\quad$ one circle $\subset$ the other)
+@[23-28](No solution case 3: $\quad$ circle 1 $\equiv$ circle 2)
+@[30-30](Else: $\quad$ there is at least one solution)
+@[32-33](Find $\large a $ and $\large h $)
+@[35-36](Find P2)
+@[38-43](Get the points P3)
+@[45-48](Another solution?)
 
 +++
 
