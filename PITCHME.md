@@ -180,7 +180,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 +++
 
-<h3 align="left"><span class="fragment">2.5 </span><span style="color:#E49436">Blue</span><span class="fragment">tootj</span></h3>
+<h3><span class="fragment">2.5 </span><span style="color:#3c8eb3">Blue</span><span class="fragment">tooth</span></h3>
 
 <br>
 - feet32 |
