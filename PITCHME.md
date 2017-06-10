@@ -78,6 +78,9 @@ $ \rightarrow $ `nearestPoint()`
 @[7-13](loop over point list & compute distances)
 @[15-27](find the smallest distance and return it to `sortByDist()`)
 
+
++++?code=01code/sortByDist.cs&lang=cs
+
 $ \rightarrow $ `sortByDist()`
 @[10-10](poule)
 @[14-20](cochon)
