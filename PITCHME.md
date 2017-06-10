@@ -1,13 +1,15 @@
 ### 2.3 Gestion <span style="color:#E49436"> temps réel </span> des données 
 
 Liste d'objets de type `PixelPointF`
+
 <br>
+<br>
+
 ```cs
 List<PixelPointF> DrawPointList = new List<PixelPointF>();
 ```
 
-<img src="/00illustrations/arrow1.png" style="border:none; padding:0%">
-
+<br>
 ```cs
     public class PixelPointF
     {
