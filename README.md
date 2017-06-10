@@ -39,7 +39,17 @@ PRESENTATION: LUNDI 12.6.17 - 9:30
 
 * Gestion live des données : sous forme de liste d’objets contenant des coordonnées et un état de stylo (levé/baissé)
 
+    public List<PixelPointF> DrawPointList = new List<PixelPointF>();
+
+
+
+
+
 * Tramage : analyse de l’image pour définir un dégradé de 4 gris appliqués au dessin grâce à un tramage. (Exemple dans la démo)
+
+        ToGreyLevels
+
+
 
 * Bluetooth : feet32 utilisé et sync grace à l’outil windows
 

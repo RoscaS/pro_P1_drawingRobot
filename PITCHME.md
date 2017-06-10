@@ -103,7 +103,7 @@ $ \rightarrow $ `nearestPoint()`
 +++?code=01code/sortByDist.cs&lang=cs
 
 $ \rightarrow $ `sortByDist()`
-@[12-18](sorting coords list)
+@[10-16](sorting coords list)
 
 
 +++
@@ -158,8 +158,49 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 ### 2.3 Gestion <span style="color:#E49436"> temps réel </span> des données 
 
-- Liste d’objets contenant des coordonnées |
-- Etat du stylo (levé/baissé) |
+Liste d'objets de type `PixelPointF`
+
+```cs
+    public class PixelPointF
+    {
+        #region Attributes
+        private PointF coordinates;
+        private bool penEngaged;
+        // ...
+    }
+```
+contient des objets de type:
+
+- `PointF` (System.Drawing) |
+    - coordonnées |
+
+- `penEngage`: etat du stylo |
+    - levé |
+    - baissé |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 +++
 
