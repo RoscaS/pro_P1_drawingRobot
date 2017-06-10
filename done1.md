@@ -56,7 +56,7 @@ Modélisation du bras réalisée à l’aide de l’algorithme d'**intersection 
 +++?code=01code/intCerc.cs&lang=cs 
 
 $ \rightarrow $ `circlesIntersect()`
-@[5-7](Dind distance between centers)
+@[5-7](Find distance between centers)
 @[9-14](No solution case 1: $\quad$ circles too far apart)
 @[16-21](No solution case 2: $\quad$ one circle $\subset$ the other)
 @[23-28](No solution case 3: $\quad$ circle 1 $\equiv$ circle 2)

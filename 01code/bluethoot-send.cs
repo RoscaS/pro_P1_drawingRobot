@@ -3,7 +3,6 @@ private void btnSendData(object sender, EventArgs e)
     lstbxDrawPoint.Items.Clear();
     Application.DoEvents();
     stopTransmitting   = false;
-    sim                = false;
     stream             = client.GetStream();
     stream.ReadTimeout = 10000;
     StreamReader file  = new StreamReader(fileSource, true);
@@ -27,8 +26,7 @@ private void btnSendData(object sender, EventArgs e)
             }
 
             strLine += (char)10;
-
-            //Envoi la ligne au robot
+             //Envoi la ligne au robot
             byte[] msg = Encoding.ASCII.GetBytes(strLine);
 
             if (!stopTransmitting)
@@ -38,7 +36,6 @@ private void btnSendData(object sender, EventArgs e)
 
             byte[] rsp = new byte[128];
             string msgOK;
-
             //attend que le robot réponde
             if (!stopTransmitting)
             {
@@ -66,11 +63,10 @@ private void btnSendData(object sender, EventArgs e)
                          !stopTransmitting);
 
                 if (!stopTransmitting)
-                {
-                    //écriture des logs
+                {   //écriture des logs                    
                     Invoke((MethodInvoker)delegate 
-                    {
-                        // Running on the UI thread
+                    {   // Running on the UI thread
+                        
                         string log = "";
                         log = strLine + " ; " + msgOK;
                         lstbxDrawPoint.Items.Add(log);
@@ -88,7 +84,6 @@ private void btnSendData(object sender, EventArgs e)
                 }
             }
         }
-
         while (strLine != "."  && 
                strLine != ""   && 
                strLine != null && 
@@ -104,3 +99,5 @@ private void btnSendData(object sender, EventArgs e)
         }
     }).Start();
 }
+
+
