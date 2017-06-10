@@ -31,7 +31,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 ## 2. Analyse et solutions retenues
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
-+++
+---
 
 ### 2.1 Simulateur:
 - Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersection des cercles**
@@ -41,9 +41,9 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 +++?code=/01code/intCerc.cs&lang=c#
 
-@[11-14](Elixir module-attributes as constants) @[22-28](Elixir with-statement for conciseness) @[30-35](Elixir case-statement pattern matching) @[48-53](Elixir pipe-mechanism for composing functions)
+@[1-8](signature) @[10-12](Find the distance between the centers) @[14-34](No solution [3 cases]) @[15-20](case 1. Circles too far apart) @[22-27](case 2. One circle C the other) @[29-34](case 3. circle 1 = circle 2) @[36-50](else, there is at least one solution) @[38-39](Find a and h) @[41-42](Find P2) @[44-49](Get the points P3) @[51-54](Another solution?)
 
-+++
+---
 
 ### 2.2 Trouver le chemin du bras du robot
 
