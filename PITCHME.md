@@ -60,7 +60,7 @@ Classement des points dans un ordre qui optimise le chemin du bras (_algo approx
 
 <div class="fragment">
     <p>1. précalcule des points</p>
-    <img class="fragment"src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+    <img class="fragment"src="https://github.com/RoscaS/pro_P1_drawingRobot/tree/dev/00illustrations/down-arrow.png" height="auto" style="border: none">
 </div>
 
 
