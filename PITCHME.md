@@ -77,7 +77,16 @@ else {
 ### 2.4 Tramage 
 
 - Analyse de l’image
-    - définition d'un dégradé de 4 gris 
-    - application grâce à un tramage. 
+    - définition d'un dégradé de 4 gris |
+    - application grâce à un tramage. |
 
 **Exemple dans la démonstration**
+
+### 2.5 Bluetooth 
+
+- feet32 
+- Synchronisation via Windows tool
+
+---
+
+### 3. Gestion de projet
