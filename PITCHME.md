@@ -19,7 +19,6 @@ Fabien Mottier – Damian Petroff
 
 ## 1. Rappel du cahier des charges
 
-
 Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 - Dessiner d’après une liste de points préenregistrés
@@ -30,7 +29,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 ---
 
 ## 2. Analyse et solutions retenues
-Press Down Key
+![press down key](00illustrations/down-arrow.png)
 
 +++
 
