@@ -16,14 +16,29 @@ Fabien Mottier – Damian Petroff
 
 ---
 
-## 1. Rappel du cahier des charges
+## 1. Cahier des charges
 
 Réaliser un programme capable de piloter un robot Scara qui pourra:
 
-- **[** <span style="color:green"> _v_ </span> **]** Dessiner une liste de points préenregistrés |
+<!--- **[** <span style="color:green"> _v_ </span> **]** Dessiner une liste de points préenregistrés |
 - **[** <span style="color:green"> _v_ </span> **]** Reproduire une image  |
 - **[** <span style="color:red"> _v_ </span> **]** Dessiner une capture de la webcam |
-- **[** <span style="color:green"> _v_ </span> **]** Reproduire un dessin de l’utilisateur  |
+- **[** <span style="color:green"> _v_ </span> **]** Reproduire un dessin de l’utilisateur  |-->
+
+<li>
+    <ul class="fragment">
+        **[**<span style="color:green">v</span>**]** Dessiner une liste de points préenregistrés
+    </ul>
+    <ul class="fragment">
+        **[**<span style="color:green">v</span>**]** Reproduire une image
+    </ul>
+    <ul class="fragment">
+        **[**<span style="color:red">x</span>**]** Dessiner une capture de la webcam
+    </ul>
+    <ul class="fragment">
+        **[**<span style="color:green">v</span>**]** Reproduire un dessin de l’utilisateur
+    </ul>
+</li>
 
 ---
 
