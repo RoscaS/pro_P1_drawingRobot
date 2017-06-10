@@ -23,16 +23,16 @@ Fabien Mottier – Damian Petroff
 
 <ul>
     <li class="fragment">
-        **[**<span style="color:green">v</span>**]** Dessiner une liste de points préenregistrés
+        **[**<span style="color:green">**v**</span>**]** Dessiner une liste de points préenregistrés
     </li>
     <li class="fragment">
-        **[**<span style="color:green">v</span>**]** Reproduire une image
+        **[**<span style="color:green">**v**</span>**]** Reproduire une image
     </li>
     <li class="fragment">
-        **[**<span style="color:red">x</span>**]** Dessiner une capture de la webcam
+        **[**<span style="color:red">**x**</span>**]** Dessiner une capture de la webcam
     </li>
     <li class="fragment">
-        **[**<span style="color:green">v</span>**]** Reproduire un dessin de l’utilisateur
+        **[**<span style="color:green">**v**</span>**]** Reproduire un dessin de l’utilisateur
     </li>
 </ul>
 
@@ -67,8 +67,8 @@ Modélisation du bras réalisée à l’aide de l’algorithme d’`intersection
 
 +++
 
-### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 1/3
-
+### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
+<br>
 Classement des points dans une liste ordonnée qui optimise le déplacement du bras (_algo approximatif_).
 
 <ol>
@@ -105,13 +105,13 @@ $ \rightarrow $ `sortByDist()`
 
 +++
 
-### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 2/3
-
+### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
+<br>
 Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
 
 <ol>
     <li>
-        **[**<span style="color:green">v</span>**]** Précalcule des points
+        **[**<span style="color:green">**v**</span>**]** Précalcule des points
     </li>
     <li class="fragment">
         Temps de chargement
@@ -124,8 +124,7 @@ Classement des points dans un ordre qui optimise le chemin du bras (algo approxi
 
 
 
-
-+++?code=01code/chemin.cs&lang=cs
++++?code=01code/sortByDist.cs&lang=cs
 
 $ \rightarrow $ `sortByDist()`
 @[18-19](computing progress bar value)
@@ -133,20 +132,21 @@ $ \rightarrow $ `sortByDist()`
 
 +++
 
-### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 1/3
-
+### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
+<br>
 <ol>
     <li>
-        **[**<span style="color:green">v</span>**]** Précalcule des points
+        **[**<span style="color:green">**v**</span>**]** Précalcule des points
     </li>
-    <li class="fragment">
-        **[**<span style="color:green">**]** Temps de chargement
+    <li>
+        **[**<span style="color:green">**v**</span>**]** Temps de chargement
     </li>
 </ol>
 
-<p class="fragment"> <br>
-<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
-</p>
+Amélioration possible: <span class="fragment" style="color:#E49436">dijkstra</span>
+    - solution approximée |
+    - démarrage du dessin instantané |
+
 
 
 +++
