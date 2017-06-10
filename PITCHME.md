@@ -41,14 +41,9 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++?code=01code/intCerc.cs&lang=cs
 
-
-
-@[71-81](signature)
 `int circlesIntersect()`
-
+@[71-81](signature)
 @[10-12](find the distance between the centers)
-test
-
 @[15-20](No solution case 1: $\quad$ circles too far apart)
 @[22-27](No solution case 2: $\quad$ one circle $\subset$ the other)
 @[29-34](No solution case 3: $\quad$ circle 1 $\equiv$ circle 2)
