@@ -1,9 +1,13 @@
 
 
+# Projet P1: part2
+<br>
 
----?image=/00illustrations/draw.gif
+_Drawing Robot soon won't be a simulator anymore_
 
+<img src="/00illustrations/robot.jpg" align="" height="100">
 
----?image=/00illustrations/base.png
+Fabien Mottier, Sol Rosca
+Erwan Bueche, Damian Petroff
 
 
