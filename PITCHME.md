@@ -64,3 +64,10 @@ else {
 - Amélioration possible : dijkstra (pas implémenté) 
     - solution approximée |
     - démarrage du dessin instantané |
+
++++
+
+### 2.3 Gestion temps réel des données 
+
+- Liste d’objets contenant des coordonnées |
+- Etat du stylo (levé/baissé) |
