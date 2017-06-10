@@ -35,7 +35,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 ### 2.1 Simulateur:
 Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersection des cercles**
-
+<br><br><br><br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++
@@ -46,7 +46,7 @@ private int circlesIntersect(float cx0, float cy0, float r0,
                              float cx1, float cy1, float r1,
                              out PointF i1, out PointF i2)
 ```
-
+<br><br><br><br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++?code=01code/intCerc.cs&lang=cs 
