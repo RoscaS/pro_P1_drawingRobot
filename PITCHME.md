@@ -31,7 +31,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 ## 2. Analyse et solutions retenues
 
----
++++
 
 ### 2.1 Simulateur:
 - Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersection des cercles**
@@ -53,6 +53,14 @@ else {
     // See if we have 1 or 2 solutions.
 ```
 
----
++++
 
+### 2.2 Trouver le chemin du bras du robot
 
+- Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
+    - précalcule des points |
+    - temps de chargement |
+
+- Amélioration possible : dijkstra (pas implémenté) 
+    - solution approximée |
+    - démarrage du dessin instantané |
