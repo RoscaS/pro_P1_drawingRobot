@@ -44,7 +44,7 @@ Fabien Mottier – Damian Petroff
 ---
 
 ### 2.1 Simulateur:
-Modélisation du bras réalisée à l’aide de l’algorithme d’`intersection des cercles`
+Modélisation du bras réalisée à l’aide de l’algorithme d'**intersection des cercles**
 <br><br><br><br><br>
 
 <p class="fragment"> <br>
@@ -107,7 +107,7 @@ $ \rightarrow $ `sortByDist()`
 
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
 <br>
-Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
+Classement des points dans une liste ordonnée qui optimise le déplacement du bras (_algo approximatif_).
 
 <ol>
     <li>
@@ -134,6 +134,8 @@ $ \rightarrow $ `sortByDist()`
 
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
 <br>
+Classement des points dans une liste ordonnée qui optimise le déplacement du bras (_algo approximatif_).
+
 <ol>
     <li>
         **[**<span style="color:green">**v**</span>**]** Précalcule des points
@@ -143,10 +145,15 @@ $ \rightarrow $ `sortByDist()`
     </li>
 </ol>
 
-Amélioration possible: <span class="fragment" style="color:#E49436">dijkstra</span>
-    - solution approximée |
-    - démarrage du dessin instantané |
-
+<p align="left">Amélioration possible: <span class="fragment" style="color:#E49436">**Dijkstra**</span>
+<ul>
+    <li>
+        Solution approximée
+    </li>
+    <li>
+        Démarrage du dessin instantané
+    </li>
+</ul>
 
 
 +++
