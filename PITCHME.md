@@ -43,14 +43,14 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 @[1-8](signature)
 @[10-12](find the distance between the centers)
-@[15-20](no solution case 1: circles too far apart)
-@[22-27](no solution case 2: one circle $\subset$ the other)
-@[29-34](no solution case 3: circle 1 $\equiv$ circle 2)
-@[36-50](else, there is at least one solution)
-@[38-39](find $\large a $ and $\large h $)
-@[41-42](find P2)
-@[44-49](get the points P3)
-@[51-54](another solution?)
+@[15-20](No solution case 1: $\quad$ circles too far apart)
+@[22-27](No solution case 2: $\quad$ one circle $\subset$ the other)
+@[29-34](No solution case 3: $\quad$ circle 1 $\equiv$ circle 2)
+@[36-36](Else: $\quad$ there is at least one solution)
+@[38-39](Find $\large a $ and $\large h $)
+@[41-42](Find P2)
+@[44-49](Get the points P3)
+@[51-54](Another solution?)
 
 ---
 
