@@ -60,7 +60,7 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 Classement des points dans un ordre qui optimise le chemin du bras (_algo approximatif_)
 
-<p class="fragment">1. précalcule des points (2 fonctions)<br>
+<p class="fragment">1. précalcule des points <br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
