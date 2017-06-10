@@ -148,15 +148,10 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
     </li>
 </ol>
 
-<p align="left">Amélioration possible: <span class="fragment" style="color:#E49436">**Dijkstra**</span>
-<ul>
-    <li class="fragment">
-        Solution approximée
-    </li>
-    <li class="fragment">
-        Démarrage du dessin instantané
-    </li>
-</ul>
+<p align="left">Amélioration possible: <span class="fragment" style="color:#E49436">**Dijkstra**</span></p>
+
+- Solution approximée |
+- Démarrage du dessin instantané |
 
 
 +++
@@ -185,7 +180,15 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 +++
 
-### 2.5 <span style="color:#3c8eb3">Blue</span>tooth 
+<!--### 2.5 <span style="color:#3c8eb3">Blue</span>tooth 
+<br>
+- feet32 |
+- Synchronisation via Windows tool |
+<br>
+<br>-->
+
+<h3 align="left"><span class="fragment">2.5 </span><span style="color:#E49436">Blue</span><span class="fragment">tootj</span></h3>
+
 <br>
 - feet32 |
 - Synchronisation via Windows tool |
