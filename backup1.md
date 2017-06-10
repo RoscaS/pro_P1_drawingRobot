@@ -36,12 +36,22 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 ### 2.1 Simulateur:
 - Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersection des cercles**
 
-<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
-
-
-+++?code=/01code/intCerc.cs&lang=c#
-
-@[1-3] @[5-8] @[10-16] @[18-24]
+```c#
+// Find the distance between the centers.
+// See how many solutions there are.
+if (dist > r0 + r1) {
+    // No solutions, the circles are too far apart.
+}
+else if (dist < Math.Abs(r0 - r1)) {
+    // No solutions, one circle contains the other.
+}
+else if ((dist == 0) && (r0 == r1)) {
+    // No solutions, the circles coincide.
+}
+else {
+    // Find a and h, find P2, get the points P3.
+    // See if we have 1 or 2 solutions.
+```
 
 +++
 
