@@ -147,10 +147,10 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 <p align="left">Amélioration possible: <span class="fragment" style="color:#E49436">**Dijkstra**</span>
 <ul>
-    <li>
+    <li class="fragment">
         Solution approximée
     </li>
-    <li>
+    <li class="fragment">
         Démarrage du dessin instantané
     </li>
 </ul>
@@ -167,11 +167,11 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 ### 2.4 Tramage 
 
-- Analyse de l’image
+<p align="left">Analyse de l’image</p>
     - définition d'un dégradé de 4 gris |
     - application grâce à un tramage. |
 
-**Exemple dans la démonstration**
+<p align="right" style="color:#E49436">**Exemple dans la démonstration**</p>
 
 +++
 
