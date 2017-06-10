@@ -41,17 +41,17 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 +++?code=01code/intCerc.cs&lang=cs
 
-@[1-8](Signature)
-@[10-12](Find the distance between the centers)
-@[14-34](No solution [3 cases])
-@[15-20](case 1. Circles too far apart)
-@[22-27](case 2. One circle $$\subset$$ the other)
-@[29-34](case 3. circle 1 $$\equiv$$ circle 2)
+@[1-8](signature)
+@[10-12](find the distance between the centers)
+@[14-34](no solution [3 cases])
+@[15-20](case 1. circles too far apart)
+@[22-27](case 2. one circle $\subset$ the other)
+@[29-34](case 3. circle 1 $\equiv$ circle 2)
 @[36-50](else, there is at least one solution)
-@[38-39](Find $$\large a $$ and $$\large h $$)
-@[41-42](Find P2)
-@[44-49](Get the points P3)
-@[51-54](Another solution?)
+@[38-39](find $\large a $ and $\large h $)
+@[41-42](find P2)
+@[44-49](get the points P3)
+@[51-54](another solution?)
 
 ---
 
