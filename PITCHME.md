@@ -57,8 +57,8 @@ $ \rightarrow $ `btnBluetooth_Click_1()`
 @[20-22](Initialise endPoint)
 @[24-28](Change cursor state & Try to connect to device)
 @[30-31](If connection ok, enble ui send btn)
-@[35-36](If connection faild, display error)
-@[40-41](if pairing faild, display error)
+@[35-40](If connection faild, display error)
+@[43-48](if pairing faild, display error)
 
 
 

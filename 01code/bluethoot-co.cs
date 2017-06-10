@@ -33,12 +33,18 @@ private void btnBluetooth_Co(object sender, EventArgs e)
             }
 
             catch {
-                MessageBox.Show("Device not *LISTENING*", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Device not *LISTENING*", 
+                                "Error", 
+                                MessageBoxButtons.OK, 
+                                MessageBoxIcon.Error);
             }
         }
 
         else {
-            MessageBox.Show("Device not paired", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            MessageBox.Show("Device not paired", 
+                            "Error", 
+                            MessageBoxButtons.OK, 
+                            MessageBoxIcon.Error);
         }
     }
 }
