@@ -16,11 +16,11 @@ private List<PixelPointF> sortByDist(List<PixelPointF> lst)
         x++;
 
         progressBarProcessing.Maximum = lst.Count() + x + 1;
-        progressBarProcessing.Value = x;
+        progressBarProcessing.Value   = x;
 
         Application.DoEvents();
     }
-    
+
     return output;
 }
 

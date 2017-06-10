@@ -1,4 +1,4 @@
-private void btnBluetooth_Co(object sender, EventArgs e)
+private void btnBluetooth(object sender, EventArgs e)
 {   
     client = new BluetoothClient();
 

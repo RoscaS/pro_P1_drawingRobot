@@ -47,7 +47,7 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 
 
 +++?code=01code/bluethoot-co.cs&lang=cs
-$ \rightarrow $ `btnBluetooth_Click_1()`
+$ \rightarrow $ `btnBluetooth()`
 
 @[3-6](Pairing)
 @[8-10](Options)
@@ -60,6 +60,10 @@ $ \rightarrow $ `btnBluetooth_Click_1()`
 @[39-45](If connection faild, display error)
 @[48-58](if pairing faild, display error)
 
++++?code=01code/bluethoot-send.cs&lang=cs
+$ \rightarrow $ `btnSendData_Click_1()`
+
+@[31-32](test)
 
 
 ---
