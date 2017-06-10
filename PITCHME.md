@@ -39,7 +39,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 
-+++?code=01code/intCerc.cs&lang=cs
+---?code=01code/intCerc.cs&lang=cs
 
 @[1-8](Signature) @[10-12](Find the distance between the centers) @[14-34](No solution [3 cases]) @[15-20](case 1. Circles too far apart) @[22-27](case 2. One circle C the other) @[29-34](case 3. circle 1 = circle 2) @[36-50](else, there is at least one solution) @[38-39](Find a and h) @[41-42](Find P2) @[44-49](Get the points P3) @[51-54](Another solution?)
 
