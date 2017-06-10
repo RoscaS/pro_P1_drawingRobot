@@ -13,7 +13,7 @@ Fabien Mottier – Damian Petroff
 ---
 ## Introduction
 
-<img src="/00illustrations/robot.jpg" align="" height="30%">
+<img src="/00illustrations/robot.jpg" align="" height="250" width="250">
 
 ---
 
