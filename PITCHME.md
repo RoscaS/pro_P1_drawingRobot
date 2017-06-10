@@ -41,7 +41,7 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++?code=01code/intCerc.cs&lang=cs 
 
-`int circlesIntersect()`
+`circlesIntersect()`
 @[1-3](header)
 @[5-7](find the distance between the centers)
 @[9-14](No solution case 1: $\quad$ circles too far apart)
@@ -65,8 +65,8 @@ Classement des points dans un ordre qui optimise le chemin du bras (_algo approx
 
 +++?code=01code/chemin.cs&lang=cs
 
-` List<PixelPointF> sortByDist()`
-@[14-17](verge)
+`sortByDist()`
+@[60-63](headers)
 
 
 
