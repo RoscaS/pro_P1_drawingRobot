@@ -162,6 +162,10 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 Liste d'objets de type `PixelPointF`
 
 ```cs
+public List<PixelPointF> DrawPointList = new List<PixelPointF>();
+```
+
+```cs
     public class PixelPointF
     {
         #region Attributes
@@ -170,10 +174,8 @@ Liste d'objets de type `PixelPointF`
         // ...
     }
 ```
-contient des objets de type:
-
 - PointF $ \rightarrow $ coordonnées |
-- penEngageetat $ \rightarrow $ etat du stylo (levé/baissé)
+- penEngageetat $ \rightarrow $ etat du stylo (levé/baissé) |
 
 
 
