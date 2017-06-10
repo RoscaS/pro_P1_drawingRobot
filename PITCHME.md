@@ -30,6 +30,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 ---
 
 ## 2. Analyse et solutions retenues
+Press Down Key
 
 +++
 
@@ -95,3 +96,12 @@ else {
 
 +++
 
+### 3.1 Méthodologie
+
+- Partage de documentation/ressources
+    - Google drive
+- Communicatioon
+    - Whatsapp
+- Versionning 
+    - Forge
+    - GitHub depuis mars 2017
