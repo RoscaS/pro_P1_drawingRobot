@@ -38,11 +38,23 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
++++
+
+#### header:
+```cs
+private int circlesIntersect(float cx0, float cy0, float r0,
+                             float cx1, float cy1, float r1,
+                             out PointF i1, out PointF i2)
+```
+
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++?code=01code/intCerc.cs&lang=cs 
 
 `circlesIntersect()`
-@[1-3](header)
+
+<!--@[1-3](header)-->
+
 @[5-7](find the distance between the centers)
 @[9-14](No solution case 1: $\quad$ circles too far apart)
 @[16-21](No solution case 2: $\quad$ one circle $\subset$ the other)
@@ -59,9 +71,21 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 Classement des points dans un ordre qui optimise le chemin du bras (_algo approximatif_)
 
-<p class="fragment">1. précalcule des points <br>
+<p class="fragment">1. **Précalcule des points** (2 methodes) <br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
+
++++
+
+#### headers:
+```cs
+private List<PixelPointF> sortByDist(List<PixelPointF> lst)
+
+private int nearestPoint(PixelPointF srcPt, 
+                         List<PixelPointF> lookIn)
+```
+
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++?code=01code/chemin.cs&lang=cs
 
@@ -74,9 +98,9 @@ Classement des points dans un ordre qui optimise le chemin du bras (_algo approx
 
 ### 2.2 Trouver le chemin du bras du robot
 
-- Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
-    - précalcule des points |
-    - temps de chargement |
+Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
+- Précalcule des points |
+- Temps de chargement |
 
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
