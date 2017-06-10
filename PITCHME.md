@@ -40,7 +40,6 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 int intCercles(cx0, cy0, r0, cx1, cy1, r1, 
                out PointF i1, out PointF i2) {
     // Find the distance between the centers.
-    // ...
     // See how many solutions there are.
     if (dist > r0 + r1) {
         // No solutions, the circles are too far apart.
@@ -52,9 +51,7 @@ int intCercles(cx0, cy0, r0, cx1, cy1, r1,
         // No solutions, the circles coincide.
     }
     else {
-        // Find a and h.
-        // Find P2.
-        // Get the points P3.
+        // Find a and h., Find P2., Get the points P3.
         // See if we have 1 or 2 solutions.
     }
 }
