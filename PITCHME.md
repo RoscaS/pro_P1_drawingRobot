@@ -170,7 +170,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 ### 2.4 Tramage 
 
-<p align="left">Analyse de l’image</p>
+<p align="left">Analyse de l’image:</p>
 
 <ul>
     <li class="fragment">
@@ -185,10 +185,12 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 +++
 
-### 2.5 Bluetooth 
-
-- feet32 
-- Synchronisation via Windows tool
+### 2.5 <span style="color:#3c8eb3">Blue</span>tooth 
+<br>
+- feet32 |
+- Synchronisation via Windows tool |
+<br>
+<br>
 
 ---
 
