@@ -82,6 +82,8 @@ else {
 
 **Exemple dans la démonstration**
 
++++
+
 ### 2.5 Bluetooth 
 
 - feet32 
@@ -89,4 +91,7 @@ else {
 
 ---
 
-### 3. Gestion de projet
+## 3. Gestion de projet
+
++++
+
