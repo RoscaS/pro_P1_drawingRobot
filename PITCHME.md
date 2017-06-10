@@ -56,11 +56,11 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 ### 2.2 Trouver le chemin du bras du robot
 
-Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
+Classement des points dans un ordre qui optimise le chemin du bras (_algo approximatif_)
 
 <div class="fragment">
     <p>1. précalcule des points</p>
-    <img src="00illustrations/down-arrow.png" height="auto" style="border: none">
+    <img src="../00illustrations/down-arrow.png" height="auto" style="border: none">
 </div>
 
 
