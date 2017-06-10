@@ -31,6 +31,8 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 ## 2. Analyse et solutions retenues
 
+---
+
 <b aligne="left">2.1 Simulateur:</b>
 * Bras sous forme de traits calculés à l’aide de l’algo d’intersection des cercles
 
@@ -64,4 +66,7 @@ int intCercles(cx0, cy0, r0, cx1, cy1, r1, out PointF i1, out PointF i2) {
     }
 }
 ```
+
+---
+
 
