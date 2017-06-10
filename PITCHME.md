@@ -55,14 +55,14 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
     - solution approximée |
     - démarrage du dessin instantané |
 
-+++
+---
 
 ### 2.3 Gestion temps réel des données 
 
 - Liste d’objets contenant des coordonnées |
 - Etat du stylo (levé/baissé) |
 
-+++
+---
 
 ### 2.4 Tramage 
 
@@ -72,7 +72,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 **Exemple dans la démonstration**
 
-+++
+---
 
 ### 2.5 Bluetooth 
 
@@ -83,7 +83,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 ## 3. Gestion de projet
 
-+++
+---
 
 ### 3.1 Méthodologie
 
