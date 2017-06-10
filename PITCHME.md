@@ -35,26 +35,18 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 ### 2.1 Simulateur:
 Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersection des cercles**
-<br><br><br><br>
+<br><br><br><br><br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++
 
-#### header:
-```cs
-private int circlesIntersect(float cx0, float cy0, float r0,
-                             float cx1, float cy1, float r1,
-                             out PointF i1, out PointF i2)
-```
-<br><br><br><br>
+
+<br><br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++?code=01code/intCerc.cs&lang=cs 
 
 `circlesIntersect()`
-
-<!--@[1-3](header)-->
-
 @[5-7](find the distance between the centers)
 @[9-14](No solution case 1: $\quad$ circles too far apart)
 @[16-21](No solution case 2: $\quad$ one circle $\subset$ the other)
@@ -69,29 +61,26 @@ private int circlesIntersect(float cx0, float cy0, float r0,
 
 ### 2.2 Trouver le chemin du bras du robot
 
-Classement des points dans un ordre qui optimise le chemin du bras (_algo approximatif_)
+Classement des points dans une liste dans un ordre qui optimise le chemin du bras (_algo approximatif_).
 
-<p class="fragment">1. **Précalcule des points** (2 methodes) <br>
+<p class="fragment">1. **Précalcule des points**<br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
-+++
-
-#### headers:
-```cs
-private List<PixelPointF> sortByDist(List<PixelPointF> lst)
-
-private int nearestPoint(PixelPointF srcPt, 
-                         List<PixelPointF> lookIn)
-```
-
-<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++?code=01code/chemin.cs&lang=cs
 
-`sortByDist()`
-@[60-63](headers)
+$$ \rightarrow $$ `sortByDist()`
+@[3-4](List declaration)
+@[6-8](Appending coords)
 
++++
+
++++?code=01code/chemin.cs&lang=cs
+
+$$ \rightarrow $$ `nearestPoint()`
+@[3-4](List declaration)
+@[6-8](Appending coords)
 
 
 +++
