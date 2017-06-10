@@ -23,9 +23,9 @@ Fabien Mottier – Damian Petroff
 Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 * Dessiner d’après une liste de points préenregistrés
-* Reproduire une image
-* Dessiner une capture de la webcam
-* Reproduire un dessin de l’utilisateur
+* Reproduire une image |
+* Dessiner une capture de la webcam |
+* Reproduire un dessin de l’utilisateur |
 
 ---
 
