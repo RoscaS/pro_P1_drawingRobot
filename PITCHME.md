@@ -22,10 +22,10 @@ Erwan Bueche, Damian Petroff
 Erwan Bueche – Sol Rosca  
 Fabien Mottier – Damian Petroff
 
----
+---?image=00illustrations/robot.jpg
 ## Introduction
 
-<img src="/00illustrations/robot.jpg" align="" height="300">
+<!--<img src="/00illustrations/robot.jpg" align="" height="300">-->
 
 ---
 
