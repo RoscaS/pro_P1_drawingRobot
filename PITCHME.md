@@ -25,7 +25,7 @@ Fabien Mottier – Damian Petroff
 ---
 ## Introduction
 
-<img src="/00illustrations/robot.jpg" align="" height="auto">
+<img src="/00illustrations/robot.jpg" align="" height="300">
 
 ---
 
@@ -40,3 +40,4 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 * Reproduire un dessin de l’utilisateur
 
 ---
+
