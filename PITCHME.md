@@ -34,7 +34,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 ---
 
 ### 2.1 Simulateur:
-- Bras sous forme de traits calculés à l’aide de l’algo d’intersection des cercles
+- Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersection des cercles**
 
 ```c#
 // Find the distance between the centers.
