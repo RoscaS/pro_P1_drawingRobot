@@ -6,7 +6,7 @@ Liste d'objets de type `PixelPointF`
 List<PixelPointF> DrawPointList = new List<PixelPointF>();
 ```
 
-<img src="/00illustrations/arrow1.png">
+<img src="/00illustrations/arrow1.png" style="border:none; padding:0%">
 
 ```cs
     public class PixelPointF
