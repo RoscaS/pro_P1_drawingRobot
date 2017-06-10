@@ -41,6 +41,8 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++?code=01code/intCerc.cs&lang=cs
 
+### Intersection des cercles
+
 @[1-8](signature)
 @[10-12](find the distance between the centers)
 @[15-20](No solution case 1: $\quad$ circles too far apart)
@@ -62,13 +64,9 @@ Classement des points dans un ordre qui optimise le chemin du bras (_algo approx
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
-<!--<div class="fragment">
-    <p>1. précalcule des points</p>
-    <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
-</div>-->
-
-
 +++?code=01code/chemin.cs&lang=cs
+
+### Précalcule des points
 
 @[14-17](verge)
 
