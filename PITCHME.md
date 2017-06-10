@@ -180,13 +180,6 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 +++
 
-<!--### 2.5 <span style="color:#3c8eb3">Blue</span>tooth 
-<br>
-- feet32 |
-- Synchronisation via Windows tool |
-<br>
-<br>-->
-
 <h3 align="left"><span class="fragment">2.5 </span><span style="color:#E49436">Blue</span><span class="fragment">tootj</span></h3>
 
 <br>
