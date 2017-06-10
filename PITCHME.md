@@ -3,13 +3,11 @@
 Liste d'objets de type `PixelPointF`
 
 <br>
-<br>
 
 ```cs
 List<PixelPointF> DrawPointList = new List<PixelPointF>();
 ```
 
-<br>
 ```cs
     public class PixelPointF
     {
