@@ -1,16 +1,18 @@
 private void btnBluetooth_Co(object sender, EventArgs e)
-{   // connexion
+{   
     client = new BluetoothClient();
 
     SelectBluetoothDeviceDialog sbdd = 
         new SelectBluetoothDeviceDialog();
-    // options
+    
     sbdd.ShowAuthenticated = true;
     sbdd.ShowRemembered    = false;
     sbdd.ShowUnknown       = true;
 
-    if (sbdd.ShowDialog() == DialogResult.OK) {        
-        if (sbdd.SelectedDevice.Authenticated) {   //connecter perif, doit être pairer avant
+    if (sbdd.ShowDialog() == DialogResult.OK) 
+    {        
+        if (sbdd.SelectedDevice.Authenticated) 
+        {
 
             bluetoothAddress = 
                 sbdd.SelectedDevice.DeviceAddress;
@@ -21,18 +23,21 @@ private void btnBluetooth_Co(object sender, EventArgs e)
                 new BluetoothEndPoint(bluetoothAddress, 
                           BluetoothService.SerialPort);
 
-            try {
+            try 
+            {
                 Cursor.Current = Cursors.WaitCursor;
 
                 client.Connect(ep);
                 clientConnected = true;
 
-                if (clientConnected && fileLoaded) {
+                if (clientConnected && fileLoaded) 
+                {
                     btnSendScara.Enabled = true;
                 }
             }
 
-            catch {
+            catch 
+            {
                 MessageBox.Show("Device not *LISTENING*", 
                                 "Error", 
                                 MessageBoxButtons.OK, 
@@ -40,7 +45,8 @@ private void btnBluetooth_Co(object sender, EventArgs e)
             }
         }
 
-        else {
+        else 
+        {
             MessageBox.Show("Device not paired", 
                             "Error", 
                             MessageBoxButtons.OK, 

@@ -51,14 +51,14 @@ $ \rightarrow $ `btnBluetooth_Click_1()`
 
 @[3-6](Pairing)
 @[8-10](Options)
-@[12-13](Check if paired & authentificated)
-@[15-22](Get device adress)
-@[18-18](Initialise client)
-@[20-22](Initialise endPoint)
-@[24-28](Change cursor state & Try to connect to device)
-@[30-31](If connection ok, enble ui send btn)
-@[35-40](If connection faild, display error)
-@[43-48](if pairing faild, display error)
+@[12-15](Check if paired & authentificated)
+@[17-18](Get device adress)
+@[20-20](Initialise client)
+@[22-24](Initialise endPoint)
+@[26-31](Change cursor state & Try to connect to device)
+@[33-36](If connection ok, enble ui send btn)
+@[39-45](If connection faild, display error)
+@[48-58](if pairing faild, display error)
 
 
 
