@@ -57,7 +57,7 @@ Modélisation du bras réalisée à l’aide de l’algorithme d'**intersection 
 
 +++?code=01code/intCerc.cs&lang=cs 
 
-$\MVRightarrow$ ` circlesIntersect()`
+$ \rightarrow $ `circlesIntersect()`
 @[5-7](find the distance between the centers)
 @[9-14](No solution case 1: $\quad$ circles too far apart)
 @[16-21](No solution case 2: $\quad$ one circle $\subset$ the other)
@@ -172,8 +172,14 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 <p align="left">Analyse de l’image</p>
 
-- définition d'un dégradé de 4 gris |
-- application grâce à un tramage. |
+<ul>
+    <li class="fragment">
+        Définition d'un dégradé de 4 gris
+    </li>
+    <li class="fragment">
+        Application grâce à un tramage
+    </li>
+</ul>
 
 <p class="fragment" align="right" style="color:#E49436">**Exemple dans la démonstration**</p>
 
