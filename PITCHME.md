@@ -44,7 +44,7 @@ Fabien Mottier – Damian Petroff
 ---
 
 ### 2.1 Simulateur:
-Modélisation du bras réalisée à l’aide de l’algorithme <span style="color:#E49436">**d’intersection des cercles**</span>
+Modélisation du bras réalisée à l’aide de l’algorithme d’`intersection des cercles`
 <br><br><br><br><br>
 
 <p class="fragment"> <br>
