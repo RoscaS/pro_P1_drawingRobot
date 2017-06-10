@@ -51,7 +51,6 @@ else if ((dist == 0) && (r0 == r1)) {
 else {
     // Find a and h, find P2, get the points P3.
     // See if we have 1 or 2 solutions.
-}
 ```
 
 ---
