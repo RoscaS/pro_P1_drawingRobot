@@ -41,7 +41,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 +++?code=/01code/intCerc.cs&lang=c#
 
-@[1-3] @[5-8] @[10-16] @[18-24]
+@[11-14](Elixir module-attributes as constants) @[22-28](Elixir with-statement for conciseness) @[30-35](Elixir case-statement pattern matching) @[48-53](Elixir pipe-mechanism for composing functions)
 
 +++
 
