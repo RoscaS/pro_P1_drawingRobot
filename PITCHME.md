@@ -39,7 +39,7 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 
-+++?code=01code/intCerc.cs&lang=cs `int circlesIntersect()`
++++?code=01code/intCerc.cs&lang=cs 
 
 @[1-3](header)
 @[10-12](find the distance between the centers)
