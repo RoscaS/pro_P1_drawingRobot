@@ -1,7 +1,7 @@
 
 ---
 
-## $$ Vinci\;Code $$
+## $$ Vinci\;$$ <span style="color:#E49436"> $$ Code $$</span>
 
 ###Projet P1 INF DLM 2016-2017
 
@@ -21,10 +21,10 @@ Fabien Mottier – Damian Petroff
 
 Réaliser un programme capable de piloter un robot Scara qui pourra:
 
-- [x] Dessiner d’après une liste de points préenregistrés
-- [x] Reproduire une image |
-- [ ] Dessiner une capture de la webcam |
-- [x] Reproduire un dessin de l’utilisateur |
+- Dessiner d’après une liste de points préenregistrés <span style="color:green"> $$ v $$ <span/>
+- Reproduire une image <span style="color:green"> $$ v $$ <span/> |
+- Dessiner une capture de la webcam |
+- Reproduire un dessin de l’utilisateur <span style="color:green"> $$ v $$ <span/> |
 
 ---
 
@@ -55,7 +55,7 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++
 
-### 2.2 Trouver le chemin du bras du robot 1/2
+### 2.2 Trouver le chemin du bras du robot 1/3
 
 Classement des points dans une liste dans un ordre qui optimise le chemin du bras (_algo approximatif_).
 
@@ -87,11 +87,11 @@ $ \rightarrow $ `sortByDist()`
 
 +++
 
-### 2.2 Trouver le chemin du bras du robot 2/2
+### 2.2 Trouver le chemin du bras du robot 2/3
 
 Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
-1. [x] Précalcule des points
-2. [ ] Temps de chargement |
+1. Précalcule des points <span style="color:green"> $$ v $$ <span/>
+2. Temps de chargement |
 
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
