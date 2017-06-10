@@ -21,10 +21,10 @@ Fabien Mottier – Damian Petroff
 
 Réaliser un programme capable de piloter un robot Scara qui pourra:
 
-- Dessiner d’après une liste de points préenregistrés
-- Reproduire une image |
-- Dessiner une capture de la webcam |
-- Reproduire un dessin de l’utilisateur |
+- [x] Dessiner d’après une liste de points préenregistrés
+- [x] Reproduire une image |
+- [ ] Dessiner une capture de la webcam |
+- [x] Reproduire un dessin de l’utilisateur |
 
 ---
 
@@ -55,11 +55,11 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++
 
-### 2.2 Trouver le chemin du bras du robot
+### 2.2 Trouver le chemin du bras du robot 1/2
 
 Classement des points dans une liste dans un ordre qui optimise le chemin du bras (_algo approximatif_).
 
-<p class="fragment">1. **Précalcule des points**<br>
+<p class="fragment">1. [ ] **Précalcule des points**<br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
@@ -76,41 +76,40 @@ $ \rightarrow $ `sortByDist()`
 $ \rightarrow $ `nearestPoint()`
 @[4-5](smallestDistance initialisation)
 @[7-13](loop over point list & compute distances)
-@[15-27](find the smallest distance and return it to `sortByDist()`)
+@[15-27](find the smallest distance and return it to sortByDist())
 
 
 +++?code=01code/sortByDist.cs&lang=cs
 
 $ \rightarrow $ `sortByDist()`
-@[10-10](poule)
-@[14-20](cochon)
+@[12-18](sorting coords list)
 
 
 +++
 
-### 2.2 Trouver le chemin du bras du robot
+### 2.2 Trouver le chemin du bras du robot 2/2
 
 Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
-- Précalcule des points |
-- Temps de chargement |
+1. [x] Précalcule des points
+2. [ ] Temps de chargement |
 
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++?code=01code/chemin.cs&lang=cs
 
-@[14-17](verge)
-
-
+$ \rightarrow $ `sortByDist()`
+@[18-19](computing progress bar value)
+@[21-21](updating progress bar display)
 
 +++
 
+### 2.2 Trouver le chemin du bras du robot 3/3
 
-
-- Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
-    - précalcule des points |
-    - temps de chargement |
-
-- Amélioration possible : dijkstra (pas implémenté) 
+Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
+1. [x] Précalcule des points
+2. [x] Temps de chargement
+<br>
+- Amélioration possible : dijkstra (pas implémenté) |
     - solution approximée |
     - démarrage du dessin instantané |
 
