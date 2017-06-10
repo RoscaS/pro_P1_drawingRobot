@@ -45,6 +45,23 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 <br>
 <br>
 
+
++++?code=01code/bluethoot-co.cs&lang=cs
+$ \rightarrow $ `btnBluetooth_Click_1()`
+
+@[3-6](Pairing)
+@[8-10](Options)
+@[12-13](Check if paired & authentificated)
+@[15-22](Get device adress)
+@[18-18](Initialise client)
+@[20-22](Initialise endPoint)
+@[24-28](Change cursor state & Try to connect to device)
+@[30-31](If connection ok, enble ui send btn)
+@[35-36](If connection faild, display error)
+@[40-41](if pairing faild, display error)
+
+
+
 ---
 
 ## 3. Gestion de projet
