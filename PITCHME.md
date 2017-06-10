@@ -172,12 +172,8 @@ Liste d'objets de type `PixelPointF`
 ```
 contient des objets de type:
 
-- `PointF` (System.Drawing) |
-    - coordonnées |
-
-- `penEngage`: etat du stylo |
-    - levé |
-    - baissé |
+- PointF $ \rightarrow $ coordonnées |
+- penEngageetat $ \rightarrow $ etat du stylo (levé/baissé)
 
 
 
