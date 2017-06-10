@@ -38,11 +38,7 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 <br><br><br><br><br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
-+++
 
-
-<br><br>
-<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++?code=01code/intCerc.cs&lang=cs 
 
@@ -70,16 +66,15 @@ Classement des points dans une liste dans un ordre qui optimise le chemin du bra
 
 +++?code=01code/chemin.cs&lang=cs
 
-$$ \rightarrow $$ `sortByDist()`
+$ \rightarrow $ `sortByDist()`
 @[3-4](List declaration)
 @[6-8](Appending coords)
 
-+++
 
 +++?code=01code/chemin.cs&lang=cs
 
-$$ \rightarrow $$ `nearestPoint()`
-@[3-4](List declaration)
+$ \rightarrow $ `nearestPoint()`
+@[39-43](compute distance)
 @[6-8](Appending coords)
 
 
