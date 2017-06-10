@@ -2,12 +2,10 @@
 ---
 ## $ Vinci$ <span style="color:#E49436"> $ Code $</span>
 <br>
-<br>
 ###Projet P1 <span style="color:#DC0062">DLM</span> 2016-2017
 <br>
-<br>
-**Groupe 5**
 
+**Groupe 5**
 Erwan Bueche – Sol Rosca  
 Fabien Mottier – Damian Petroff
 
