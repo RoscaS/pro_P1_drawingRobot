@@ -22,10 +22,10 @@ Fabien Mottier – Damian Petroff
 
 Réaliser un programme capable de piloter un robot Scara qui pourra:
 
-* Dessiner d’après une liste de points préenregistrés
-* Reproduire une image |
-* Dessiner une capture de la webcam |
-* Reproduire un dessin de l’utilisateur |
+- Dessiner d’après une liste de points préenregistrés
+- Reproduire une image |
+- Dessiner une capture de la webcam |
+- Reproduire un dessin de l’utilisateur |
 
 ---
 
@@ -33,8 +33,8 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 ---
 
-<b aligne="left">2.1 Simulateur:</b>
-* Bras sous forme de traits calculés à l’aide de l’algo d’intersection des cercles
+### 2.1 Simulateur:
+- Bras sous forme de traits calculés à l’aide de l’algo d’intersection des cercles
 
 ```c#
 int intCercles(cx0, cy0, r0, cx1, cy1, r1, 
