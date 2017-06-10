@@ -46,8 +46,10 @@ Fabien Mottier – Damian Petroff
 ### 2.1 Simulateur:
 Modélisation du bras réalisée à l’aide de l’algorithme <span style="color:#E49436">**d’intersection des cercles**</span>
 <br><br><br><br><br>
-<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
+<p class="fragment"> <br>
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
 
 
 +++?code=01code/intCerc.cs&lang=cs 
@@ -69,7 +71,13 @@ Modélisation du bras réalisée à l’aide de l’algorithme <span style="colo
 
 Classement des points dans une liste ordonnée qui optimise le déplacement du bras (_algo approximatif_).
 
-<p class="fragment">1. **Précalcule des points**<br>
+<ol>
+    <li class="fragment">
+        Précalcule des points
+    </li>
+</ol>
+
+<p class="fragment"> <br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
@@ -100,10 +108,22 @@ $ \rightarrow $ `sortByDist()`
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 2/3
 
 Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
-1. Précalcule des points <span style="color:green"> $V$ <span/>
-2. Temps de chargement |
 
+<ol>
+    <li>
+        **[**<span style="color:green">v</span>**]** Précalcule des points
+    </li>
+    <li class="fragment">
+        Temps de chargement
+    </li>
+</ol>
+
+<p class="fragment"> <br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
+
+
 
 +++?code=01code/chemin.cs&lang=cs
 
@@ -115,13 +135,19 @@ $ \rightarrow $ `sortByDist()`
 
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 1/3
 
-Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
-1. [x] Précalcule des points
-2. [x] Temps de chargement
-<br>
-- Amélioration possible : dijkstra (pas implémenté) |
-    - solution approximée |
-    - démarrage du dessin instantané |
+<ol>
+    <li>
+        **[**<span style="color:green">v</span>**]** Précalcule des points
+    </li>
+    <li class="fragment">
+        **[**<span style="color:green">**]** Temps de chargement
+    </li>
+</ol>
+
+<p class="fragment"> <br>
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 
 +++
 
