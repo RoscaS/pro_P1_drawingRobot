@@ -29,7 +29,7 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 ---
 
 ## 2. Analyse et solutions retenues
-<img src="/00illustrations/down-arrow.png" height="auto">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
 +++
 
