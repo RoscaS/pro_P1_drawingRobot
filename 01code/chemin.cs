@@ -1,10 +1,10 @@
-private List<PixelPointF> SortByDist(List<PixelPointF> lst)
+private List<PixelPointF> sortByDist(List<PixelPointF> lst)
 {
     List<PixelPointF> output = 
         new List<PixelPointF>();
 
     output.Add(
-        lst[NearestPoint(new PixelPointF(
+        lst[nearestPoint(new PixelPointF(
             new PointF(0, 0), false), lst)]);
 
     lst.Remove(output[0]);
@@ -13,7 +13,7 @@ private List<PixelPointF> SortByDist(List<PixelPointF> lst)
 
     for (int i = 0; i < lst.Count + x; i++)
     {
-        output.Add(lst[NearestPoint(output[output.Count - 1], 
+        output.Add(lst[nearestPoint(output[output.Count - 1], 
             lst)]);
         
         lst.Remove(output[output.Count - 1]);
@@ -27,7 +27,7 @@ private List<PixelPointF> SortByDist(List<PixelPointF> lst)
     return output;
 }
 
-private int NearestPoint(PixelPointF srcPt, List<PixelPointF> lookIn)
+private int nearestPoint(PixelPointF srcPt, List<PixelPointF> lookIn)
 {
     KeyValuePair<double, int> smallestDistance = new KeyValuePair<double, int>();
     for (int i = 0; i < lookIn.Count; i++)
