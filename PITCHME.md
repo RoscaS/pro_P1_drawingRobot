@@ -58,10 +58,14 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 Classement des points dans un ordre qui optimise le chemin du bras (_algo approximatif_)
 
-<div class="fragment">
+<p class="fragment">1. précalcule des points<br>
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
+<!--<div class="fragment">
     <p>1. précalcule des points</p>
-    <img class="fragment"src="https://github.com/RoscaS/pro_P1_drawingRobot/tree/dev/00illustrations/down-arrow.png" height="auto" style="border: none">
-</div>
+    <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</div>-->
 
 
 +++?code=01code/chemin.cs&lang=cs
