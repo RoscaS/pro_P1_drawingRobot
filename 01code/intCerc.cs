@@ -35,18 +35,18 @@ private int circInt(float cx0,
     
     else
     {   
-        double a = (r0 * r0 - r1 * r1 + dist * dist) / (2 * dist);
+        double a = (r0*r0 - r1*r1 + dist*dist) / (2*dist);
         double h = Math.Sqrt(r0 * r0 - a * a);
 
-        double cx2 = cx0 + a * (cx1 - cx0) / dist; 
-        double cy2 = cy0 + a * (cy1 - cy0) / dist;
+        double cx2 = cx0 + a*(cx1 - cx0) / dist; 
+        double cy2 = cy0 + a*(cy1 - cy0) / dist;
 
         i1 = new PointF(         
-            (float)(cx2 + h * (cy1 - cy0) / dist),
-            (float)(cy2 - h * (cx1 - cx0) / dist));
+            (float)(cx2 + h*(cy1 - cy0) / dist),
+            (float)(cy2 - h*(cx1 - cx0) / dist));
         i2 = new PointF(
-            (float)(cx2 - h * (cy1 - cy0) / dist),
-            (float)(cy2 + h * (cx1 - cx0) / dist));
+            (float)(cx2 - h*(cy1 - cy0) / dist),
+            (float)(cy2 + h*(cx1 - cx0) / dist));
 
         if (dist == r0 + r1) 
         {
