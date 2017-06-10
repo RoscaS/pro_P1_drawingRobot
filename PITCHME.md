@@ -164,7 +164,8 @@ Liste d'objets de type `PixelPointF`
 ```cs
 List<PixelPointF> DrawPointList = new List<PixelPointF>();
 ```
-
+<br>
+<br>
 ```cs
     public class PixelPointF
     {
@@ -174,9 +175,6 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
         // ...
     }
 ```
-
-- PointF $ \rightarrow $ coordonnées |
-- penEngageetat $ \rightarrow $ etat du stylo (levé/baissé) |
 
 
 
