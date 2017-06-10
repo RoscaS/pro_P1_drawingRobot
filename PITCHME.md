@@ -71,3 +71,13 @@ else {
 
 - Liste d’objets contenant des coordonnées |
 - Etat du stylo (levé/baissé) |
+
++++
+
+### 2.4 Tramage 
+
+- Analyse de l’image
+    - définition d'un dégradé de 4 gris 
+    - application grâce à un tramage. 
+
+**Exemple dans la démonstration**
