@@ -41,7 +41,7 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++?code=01code/intCerc.cs&lang=cs
 
-### Intersection des cercles
+`Intersection des cercles`
 
 @[1-8](signature)
 @[10-12](find the distance between the centers)
