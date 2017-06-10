@@ -16,9 +16,10 @@ Fabien Mottier – Damian Petroff
 
 ---
 
-## 1. Cahier des charges
+## 1. Cahier des <span style="color:#E49436">charges</span>
 
-Réaliser un programme capable de piloter un robot Scara qui pourra:
+<br>
+<br>
 
 <ul>
     <li class="fragment">
@@ -37,13 +38,13 @@ Réaliser un programme capable de piloter un robot Scara qui pourra:
 
 ---
 
-## 2. Analyse et solutions retenues
+## 2. Analyse et <span style="color:#E49436">solutions</span>
 <!--<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">-->
 
 ---
 
 ### 2.1 Simulateur:
-Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersection des cercles**
+Modélisation du bras réalisée à l’aide de l’algorithme <span style="color:#E49436">**d’intersection des cercles**</span>
 <br><br><br><br><br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 
@@ -64,11 +65,11 @@ Bras sous forme de traits calculés à l’aide de l’algorithme **d’intersec
 
 +++
 
-### 2.2 Trouver le chemin du bras du robot 1/3
+### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 1/3
 
-Classement des points dans une liste dans un ordre qui optimise le chemin du bras (_algo approximatif_).
+Classement des points dans une liste ordonnée qui optimise le déplacement du bras (_algo approximatif_).
 
-<p class="fragment">1. [ ] **Précalcule des points**<br>
+<p class="fragment">1. **Précalcule des points**<br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
@@ -96,7 +97,7 @@ $ \rightarrow $ `sortByDist()`
 
 +++
 
-### 2.2 Trouver le chemin du bras du robot 2/3
+### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 2/3
 
 Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
 1. Précalcule des points <span style="color:green"> $V$ <span/>
@@ -112,7 +113,7 @@ $ \rightarrow $ `sortByDist()`
 
 +++
 
-### 2.2 Trouver le chemin du bras du robot 3/3
+### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span> 1/3
 
 Classement des points dans un ordre qui optimise le chemin du bras (algo approximatif)
 1. [x] Précalcule des points
@@ -124,7 +125,7 @@ Classement des points dans un ordre qui optimise le chemin du bras (algo approxi
 
 +++
 
-### 2.3 Gestion temps réel des données 
+### 2.3 Gestion <span style="color:#E49436"> temps réel </span> des données 
 
 - Liste d’objets contenant des coordonnées |
 - Etat du stylo (levé/baissé) |
