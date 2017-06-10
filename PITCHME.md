@@ -40,6 +40,9 @@ Fabien Mottier – Damian Petroff
 
 ## 2. Analyse et <span style="color:#E49436">solutions</span>
 
+<p class="fragment"> <br>
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
 
 +++
 
