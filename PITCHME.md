@@ -325,6 +325,44 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## Etat de l'implémentation
+## 4. Etat de l'<span style="color:#E49436">implémentation</span>
 
-<img src="https://atlaskit.atlassian.com/a857e9e1cf8677895f76f7763098083b.svg" height="200" style="border: none">
+<p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof </p>
+
+
+<ul>
+    <li class="fragment">
+        **[**<span style="color:green">**v**</span>**]** Simulateur
+    </li>
+    <li class="fragment">
+        **[**<span style="color:green">**v**</span>**]** Lecture d'image
+    </li>
+    <li class="fragment">
+        **[**<span style="color:green">**v**</span>**]** Dessin à la souris
+    </li>
+    <li class="fragment">
+        **[**<span style="color:yellow">**-**</span>**]** Sauvegarde de liste: Problèmes de mise à l'échelle
+    </li>
+    <li class="fragment">
+        **[**<span style="color:red">**x**</span>**]** Webcam: Pas implémenté
+    </li>
+</ul>
+
+---
+
+## Planning futur:
+
+<ul>
+    <li class="fragment">
+       <img src="/00illustrations/ui.png" float="left" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> 
+       test
+    </li>
+    <li class="fragment">
+        <img src="/00illustrations/webcam.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+        poule 
+    </li>
+    <li class="fragment">
+        <img src="/00illustrations/scale.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> 
+        cochon
+    </li>
+</ul>
