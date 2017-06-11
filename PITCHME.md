@@ -4,7 +4,7 @@
 <p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof </p>
 
 
-<img src="00illustrations/ok.png" style="width:32px;height:32px;float:right;border: none; box-shadow: 0px 0px 0px #000" align="left">
+<img src="00illustrations/ok.png" style="width:32px;height:32px;float:left;border: none; box-shadow: 0px 0px 0px #000" align="left">
 <p style="margin:0px;max-idth:100%;float:left;overflow:auto;">Simulateur</p>
 
 
