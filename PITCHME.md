@@ -5,7 +5,7 @@
 
 
 <br>
-<p class="fragment" align="left" float="left" style="padding-left: 0px; padding-top:10px"> Simulateur</p>
+<p class="fragment" style="text-align: left; display: block; position: relative;"> Simulateur</p>
 <img class="fragment" align="right" float="right" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; padding-top: 17px">
 
 <p class="fragment" align="left" float="left" style="padding-left: 0px; padding-top:10px"> Lecteur d'images</p>
