@@ -117,6 +117,8 @@ Rather you'd separate the code base into two "snapshots" (branches) and work on 
 `git branch`: shows project branches
 `git push --set-upstream origin new_branch` create this new_branch on gh server
 
+
+
 You can use:
 
 `git checkout -b new_branch`

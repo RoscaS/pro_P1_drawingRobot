@@ -322,3 +322,9 @@ $ \rightarrow $ `btnSendData_Click_1()`
 ### 3.3 Github<span style="color:#E49436"> commit</span> frequency
 
 <img src="/00illustrations/gh-com.gif" style="border: none">
+
+---
+
+## Etat de l'implémentation
+
+![alt](https://atlaskit.atlassian.com/a857e9e1cf8677895f76f7763098083b.svg)
