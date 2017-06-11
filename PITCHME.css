@@ -1,5 +1,8 @@
 
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-}
+.imgPerso {
+    vertical-align: middle;
+    border: 0;
+    box-shadow: none; }
+
+.pPerso {
+    display:inline-block; }

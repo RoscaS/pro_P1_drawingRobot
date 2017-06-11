@@ -3,11 +3,10 @@
 
 <p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof </p>
 
-<br>
-<p class="fragment" style=" display:inline-block; text-align:left; vertical-align: middle;"> Simulateur</p>
-<img class="fragment" src="/00illustrations/ok.png" height="40" style="box-shadow: 0px 0px 0px #000; vertical-align: middle; padding-left:60px">
 
 
+<p class="pPerso"> Simulateur</p>
+<img class="imgPerso" src="/00illustrations/ok.png" height="40">
 
 
 
