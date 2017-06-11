@@ -86,14 +86,73 @@ Régler les problèmes de mise à l’échelle sur la sauvegarde de fichier de l
 
 
 
+### github
+
+* **distributed** version control system
+<br>
+<br>
+<br>
+* push: send (big confusion here, pull and push where meaning the opposit a couple of years ago)
+
+* pull: bring down last version eg:
+    * git pull origin master: will pull down the last version of the master the hosted on GH.
+
+`git pull origin master`
+
+if sombody else have done some changes, using `git diff HEAD` will sho the differences between the last local version and the one just pulled
+
+after using `git add` we can use `git diff --staged` to see the modification made
+
+* HEAD: The HEAD is a pointer that holds your position within all your different commits. By default HEAD points to your most recent commit,
+
+
+*Branching:*
+When developers are working on a feature or bug they'll often create a copy (aka. branch) of their code they can make separate commits to. Then when they're done they can merge this branch back into their main master branch.
+
+Branches are what naturally happens when you want to work on multiple features at the same time. You wouldn't want to end up with a master branch which has Feature A half done and Feature B half done.
+
+Rather you'd separate the code base into two "snapshots" (branches) and work on and commit to them separately. As soon as one was ready, you might merge this branch back into the master branch and push it to the remote server.  
+
+`git branch branche_name`: new branch  
+`git branch`: shows project branches
+`git push --set-upstream origin new_branch` create this new_branch on gh server
+
+You can use:
+
+`git checkout -b new_branch`
+
+to checkout and create a branch at the same time. This is the same thing as doing:
+
+`git branch new_branch`  
+`git checkout new_branch`
+
+once the job is done on the branch we can use `git merge branch_name` to merge it into a lower branch. for example, from the master we could merge the new_branch branch by doing `git merge new\_newbranch`. Once the merge is done, we can delete the branch with `git branch -d new_branch`
+
+`git push` push the work on github
+
+>Merge Conflicts
+
+>Merge Conflicts can occur when changes are made to a file at the same time. A lot of people get really scared when a conflict happens, but fear not! They aren't that scary, you just need to decide which code to keep.
+
+[git-doc on merge conflicts](https://git-scm.com/docs/git-merge#_how_conflicts_are_presented)
+
+>Force delete
+
+>What if you have been working on a feature branch and you decide you really don't want this feature anymore? You might decide to delete the branch since you're scrapping the idea. You'll notice that git branch -d bad_feature doesn't work. This is because -d won't let you delete something that hasn't been merged.
+
+>You can either add the --force (-f) option or use -D which combines -d -f together into one command.
 
 
 
 
-
-
-
-
+wtf?
+>Pull Requests
+>
+>If you're hosting your repo on GitHub, you can do something called a >pull request.
+>
+>A pull request allows the boss of the project to look through your >changes and make comments before deciding to merge in the change. It's >a really great feature that is used all the time for remote workers and open-source projects.
+>
+>Check out the pull request help page for more information.
 
 
 
