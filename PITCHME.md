@@ -6,7 +6,7 @@
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/webcam.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation web<span style="color:#E49436">cam</span></p>
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation <span style="color:#E49436">web</span>cam</p>
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/scale.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
