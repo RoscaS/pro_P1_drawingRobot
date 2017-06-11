@@ -9,6 +9,12 @@
 
 ---
 
-### Github network view
+### Git<span style="color:#E49436">hub</span> network view
 
 <img src="/00illustrations/gh-net.gif" style="border: none">
+
+---
+
+### Github<span style="color:#E49436">commit</span> frequency
+
+<img src="/00illustrations/gh-com.gif" style="border: none">
