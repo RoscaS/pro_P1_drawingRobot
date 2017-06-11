@@ -286,6 +286,15 @@ $ \rightarrow $ `btnBluetooth()`
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
++++?code=01code/bluethoot-send.cs&lang=cs
+$ \rightarrow $ `btnSendData_Click_1()`
+
+@[3-9](setup send process)
+@[11-12](initialising new thread)
+@[22-27](read line in txt file)
+@[29-37](find line that starts with ".")
+@[1-1](A CONTINUER)
+
 ---
 
 
@@ -336,19 +345,19 @@ $ \rightarrow $ `btnBluetooth()`
 
 <ul>
     <li class="fragment">
-        **[**<span class="fragment" style="color:green">**v**</span>**]** Simulateur
+        **[**<span style="color:green">**v**</span>**]** Simulateur
     </li>
     <li class="fragment">
-        **[**<span class="fragment" style="color:green">**v**</span>**]** Lecture d'image et liste de points
+        **[**<span style="color:green">**v**</span>**]** Lecture d'image
     </li>
     <li class="fragment">
-        **[**<span class="fragment" style="color:green">**v**</span>**]** Dessin à la souris
+        **[**<span style="color:green">**v**</span>**]** Dessin à la souris
     </li>
     <li class="fragment">
-        **[**<span class="fragment" style="color:#E49436">**-**</span>**]** Sauvegarde de liste: Problèmes de scaling
+        **[**<span style="color:#E49436">**-**</span>**]** Sauvegarde de liste: Problèmes de scaling
     </li>
     <li class="fragment">
-        **[**<span class="fragment" style="color:red">**x**</span>**]** Webcam: Pas implémenté
+        **[**<span style="color:red">**x**</span>**]** Webcam: Pas implémenté
     </li>
 </ul>
 
