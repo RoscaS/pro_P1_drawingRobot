@@ -1,5 +1,5 @@
 
-<img class="fragment" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+<img class="fragment" align="left" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
 
 ---
 
