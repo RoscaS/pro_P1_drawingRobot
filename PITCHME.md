@@ -1,29 +1,4 @@
 
-## 4. Etat de l'<span style="color:#E49436">implémentation</span>
-
-<p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof. </p>
-
-
-
-
-<ul>
-    <li class="fragment">
-        Simulateur
-        <img class="section" src="/00illustrations/ok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000;">
-    </li>
-</ul>
-
-
-
-
-
-
-
-
-
----
-
-
 ## $ Vinci$ <span style="color:#E49436"> $ Code $</span>
 <br>
 ###Projet P1 <span style="color:#DC0062">DLM</span> 2016-2017
@@ -367,21 +342,12 @@ $ \rightarrow $ `btnSendData_Click_1()`
         **[**<span style="color:green">**v**</span>**]** Dessin à la souris
     </li>
     <li class="fragment">
-        **[**<span style="color:yellow">**-**</span>**]** Sauvegarde de liste: Problèmes de scaling
+        **[**<span style="color:#E49436">**-**</span>**]** Sauvegarde de liste: Problèmes de scaling
     </li>
     <li class="fragment">
         **[**<span style="color:red">**x**</span>**]** Webcam: Pas implémenté
     </li>
 </ul>
-
-
-
-
-
-
-
-
-
 
 ---
 
