@@ -278,9 +278,6 @@ $ \rightarrow $ `btnBluetooth()`
 @[20-20](Initialise client)
 @[22-24](Initialise endPoint)
 @[26-31](Change cursor state & Try to connect to device)
-@[33-36](If connection ok, enble ui send btn)
-@[39-45](If connection failed, display error)
-@[48-58](if pairing failed, display error)
 
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
@@ -297,7 +294,6 @@ $ \rightarrow $ `btnSendData_Click_1()`
 @[1-1](A CONTINUER)
 
 ---
-
 
 ## 3. <span style="color:#E49436">Gestion</span> de projet
 <br><br><br>
@@ -385,6 +381,10 @@ $ \rightarrow $ `btnSendData_Click_1()`
 ## <span style="color:#DC0062">HES</span> d'été
 
 <img src="/00illustrations/plan.png" style="border: none">
+
+---
+
+## Place à la <span style="color:#E49436">démonstration<\span>
 
 ---
 
