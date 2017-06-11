@@ -271,7 +271,7 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 +++?code=01code/bluethoot-co.cs&lang=cs
 $ \rightarrow $ `btnBluetooth()`
 
-@[3-6](Pairing)
+@[3-6](Synchronisation)
 @[8-10](Options)
 @[12-15](Check if paired & authentificated)
 @[17-18](Get device adress)
@@ -279,8 +279,8 @@ $ \rightarrow $ `btnBluetooth()`
 @[22-24](Initialise endPoint)
 @[26-31](Change cursor state & Try to connect to device)
 @[33-36](If connection ok, enble ui send btn)
-@[39-45](If connection faild, display error)
-@[48-58](if pairing faild, display error)
+@[39-45](If connection failed, display error)
+@[48-58](if pairing failed, display error)
 
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
