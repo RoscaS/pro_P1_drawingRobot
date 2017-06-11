@@ -11,4 +11,4 @@
 
 ### Github network view
 
-<img src="/00illustrations/gh-net.gif" style="border: none>
+<img src="/00illustrations/gh-net.gif" style="border: none">
