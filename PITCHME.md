@@ -9,7 +9,7 @@
 <ul>
     <li class="fragment">
         Simulateur
-        <img class="reveal section img" src="/00illustrations/ok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000;">
+        <img class="section" src="/00illustrations/ok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000;">
     </li>
 </ul>
 
