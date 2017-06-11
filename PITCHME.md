@@ -208,7 +208,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 
 
-### 2.3 Gestion <span style="color:#E49436"> temps réel </span> des données 
+### 2.3 Gestion temps <span style="color:#E49436">réel</span> des données 
 
 Liste d'objets de type `PixelPointF`
 
@@ -297,7 +297,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 ---
 
 
-## 3. Gestion <span style="color:#E49436">de</span> projet
+## 3. <span style="color:#E49436">Gestion</span> de projet
 <br><br><br>
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
@@ -337,7 +337,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## 4. Etat de l'<span style="color:#E49436">implémentation</span>
+## 4. <span style="color:#E49436">Etat</span> de l'implémentation</span>
 
 <p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof </p>
 
@@ -362,7 +362,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## <span style="color:#E49436">Planning</span> futur
+## Planning <span style="color:#E49436">futur</span>
 
 <br>
 <img class="fragment" align="left" float="left" src="/00illustrations/ui2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; padding-top: 17px">
