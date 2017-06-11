@@ -195,6 +195,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
     </li>
 </ol>
 
+
 <p align="left">Amélioration possible: <span class="fragment" style="color:#E49436">**Dijkstra**</span></p>
 
 - Solution approximée |
