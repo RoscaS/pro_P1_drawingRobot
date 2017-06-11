@@ -1,21 +1,3 @@
-## <span style="color:#E49436">Planning</span> futur
-
-<br>
-<img class="fragment" align="left" float="left" src="/00illustrations/ui.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-top:20px;">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
-
-
-<img class="fragment" align="left" float="left" src="/00illustrations/webcam.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-left:3x">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation <span style="color:#E49436">web</span>cam</p>
-
-
-<img class="fragment" align="left" float="left" src="/00illustrations/scale.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-left:5px">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Fine tuning du scaling via fichier <span style="color:#E49436">listes</span></p>
-
-<br>
-
-
----
 
 ## $ Vinci$ <span style="color:#E49436"> $ Code $</span>
 <br>
@@ -369,7 +351,19 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## <span style="color:#E49436">Planning</span> futur:
+## <span style="color:#E49436">Planning</span> futur
 
-<img class="fragment" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+<br>
+<img class="fragment" align="left" float="left" src="/00illustrations/ui.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-top:20px;">
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
+
+
+<img class="fragment" align="left" float="left" src="/00illustrations/webcam.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-left:3x">
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation <span style="color:#E49436">web</span>cam</p>
+
+
+<img class="fragment" align="left" float="left" src="/00illustrations/scale.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-left:5px">
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Fine tuning du scaling via fichier <span style="color:#E49436">listes</span></p>
+
+<br>
 
