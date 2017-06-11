@@ -286,6 +286,19 @@ $ \rightarrow $ `btnBluetooth()`
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
+
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
++++?code=01code/bluethoot-send.cs&lang=cs
+$ \rightarrow $ `btnSendData_Click_1()`
+
+@[3-9](setup send process)
+@[11-12](initialising new thread)
+@[22-27](read line in txt file)
+@[29-37](find line that starts with ".")
+@[1-1](A CONTINUER)
+
 ---
 
 
@@ -369,6 +382,12 @@ $ \rightarrow $ `btnBluetooth()`
 <p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Fine tuning du scaling via fichier <span style="color:#E49436">listes</span></p>
 
 <br>
+
+---
+
+## Planning <span style="color:#E49436">HES</span> d'été
+
+<img src="/00illustrations/plan.png" style="border: none">
 
 ---
 
