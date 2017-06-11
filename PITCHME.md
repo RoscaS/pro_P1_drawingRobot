@@ -157,7 +157,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
         **[**<span style="color:green">**v**</span>**]** Précalcule des points
     </li>
     <li class="fragment">
-        Temps de chargement
+        **Temps de chargement**
     </li>
 </ol>
 
@@ -191,7 +191,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
         **[**<span style="color:green">**v**</span>**]** Précalcule des points
     </li>
     <li>
-        **[**<span style="color:green">**v**</span>**]** Temps de chargement
+        **[**<span class="fragment" style="color:green">**v**</span>**]** Temps de chargement
     </li>
 </ol>
 
