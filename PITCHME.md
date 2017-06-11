@@ -10,10 +10,9 @@
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/scale.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Clibrage du scaling via fichier <span style="color:#E49436">listes</span></p>
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Fine tuning du scaling via fichier <span style="color:#E49436">listes</span></p>
 
 <br>
-
 
 
 ---
