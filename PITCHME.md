@@ -328,3 +328,5 @@ $ \rightarrow $ `btnSendData_Click_1()`
 ## Etat de l'implémentation
 
 ![alt](https://atlaskit.atlassian.com/a857e9e1cf8677895f76f7763098083b.svg)
+
+<img src="https://atlaskit.atlassian.com/a857e9e1cf8677895f76f7763098083b.svg" height="200" style="border: none">
