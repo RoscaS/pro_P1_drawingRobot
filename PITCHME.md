@@ -3,27 +3,6 @@
 
 <p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof </p>
 
-<ul>
-    <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Simulateur
-    </li>
-    <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Lecture d'image
-    </li>
-    <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Dessin à la souris
-    </li>
-    <li class="fragment">
-        **[**<span style="color:yellow">**-**</span>**]** Sauvegarde de liste: Problèmes de scaling
-    </li>
-    <li class="fragment">
-        **[**<span style="color:red">**x**</span>**]** Webcam: Pas implémenté
-    </li>
-</ul>
-
-
-
-
 <br>
 <p class="fragment" align="left" style="display:inline; text-align:left; vertical-align: middle;"> Simulateur</p>
 <img class="fragment" src="/00illustrations/ok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
