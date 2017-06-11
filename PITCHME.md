@@ -1,20 +1,19 @@
-## <span style="color:#E49436">Planning</span> futur
+
+## 4. Etat de l'<span style="color:#E49436">implémentation</span>
+
+<p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof </p>
+
 
 <br>
-<img class="fragment" align="left" float="left" src="/00illustrations/ui2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; padding-top: 17px">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
+<p class="fragment" align="left" float="left" style="padding-left: 0px; padding-top:10px"> Simulateur</p>
+<img class="fragment" align="left" float="right" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; padding-top: 17px">
 
+<p class="fragment" align="left" float="left" style="padding-left: 0px; padding-top:10px"> Lecteur d'images</p>
+<img class="fragment" align="left" float="right" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; padding-top: 17px">
 
-<img class="fragment" align="left" float="left" src="/00illustrations/webcam2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation <span style="color:#E49436">web</span>cam</p>
-
-
-<img class="fragment" align="left" float="left" src="/00illustrations/scale2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Fine tuning du scaling via fichier <span style="color:#E49436">listes</span></p>
-
-<br>
 
 ---
+
 
 ## $ Vinci$ <span style="color:#E49436"> $ Code $</span>
 <br>
@@ -366,21 +365,31 @@ $ \rightarrow $ `btnSendData_Click_1()`
     </li>
 </ul>
 
+
+
+
+
+
+
+
+
+
 ---
 
 ## <span style="color:#E49436">Planning</span> futur
 
 <br>
-<img class="fragment" align="left" float="left" src="/00illustrations/ui.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-top:20px;">
+<img class="fragment" align="left" float="left" src="/00illustrations/ui2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; padding-top: 17px">
 <p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
 
 
-<img class="fragment" align="left" float="left" src="/00illustrations/webcam.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-left:3x">
+<img class="fragment" align="left" float="left" src="/00illustrations/webcam2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000">
 <p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation <span style="color:#E49436">web</span>cam</p>
 
 
-<img class="fragment" align="left" float="left" src="/00illustrations/scale.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-left:5px">
+<img class="fragment" align="left" float="left" src="/00illustrations/scale2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000">
 <p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Fine tuning du scaling via fichier <span style="color:#E49436">listes</span></p>
 
 <br>
+
 
