@@ -285,7 +285,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 ---
 
 
-## 3. Gestion de projet
+## 3. Gestion <span style="color:#E49436">de</span> projet
 <br><br><br>
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
