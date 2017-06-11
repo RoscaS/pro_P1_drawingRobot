@@ -2,15 +2,15 @@
 
 <br>
 <img class="fragment" align="left" float="left" src="/00illustrations/ui.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:-10px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/webcam.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px"> Implementation web<span style="color:#E49436">cam</span></p>
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation web<span style="color:#E49436">cam</span></p>
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/scale.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px"> Calibrer le <span style="color:#E49436">scaling</span> du fichier de listes</p>
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Calibrer le <span style="color:#E49436">scaling</span> du fichier de listes</p>
 
 <br>
 
