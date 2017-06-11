@@ -6,10 +6,10 @@
 
 <br>
 <p class="fragment" style="text-align:left; display:inline"> Simulateur</p>
-<img class="fragment" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; padding-top:100px; padding-left:60px">
+<img class="fragment" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
 
 <p class="fragment" style="text-align:left; display:inline;">Lecteur d'images</p>
-<img class="fragment" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; padding-top:100px; padding-left:60px">
+<img class="fragment" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
 
 
 ---
