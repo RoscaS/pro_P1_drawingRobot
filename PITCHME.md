@@ -228,6 +228,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
+
 ## 3. Gestion de projet
 
 +++
@@ -241,14 +242,14 @@ $ \rightarrow $ `btnSendData_Click_1()`
 <br>
 <img class="fragment" src="/00illustrations/github.png" height="70px" style="border: none; box-shadow: 0px 0px 0px #000">
 
----
++++
 
-### Git<span style="color:#E49436">hub</span> network view
+### 3.2 Git<span style="color:#E49436">hub</span> network view
 
 <img src="/00illustrations/gh-net.gif" style="border: none">
 
----
++++
 
-### Github<span style="color:#E49436"> commit</span> frequency
+### 3.3 Github<span style="color:#E49436"> commit</span> frequency
 
 <img src="/00illustrations/gh-com.gif" style="border: none">
