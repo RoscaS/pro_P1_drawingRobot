@@ -385,7 +385,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## Planning <span style="color:#E49436">HES</span> d'été
+## <span style="color:#DC0062">HES</span> d'été
 
 <img src="/00illustrations/plan.png" style="border: none">
 
