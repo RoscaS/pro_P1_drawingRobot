@@ -7,7 +7,7 @@
 
 
 
-<p class="fragment" align="left" style="vertical-align: middle;">Simulateur <img align="middle" src="/00illustrations/ok.png" height="40" style="border: none;box-shadow: 0px 0px 0px #000; vertical-align: middle;"></p>
+<p class="fragment" align="left" style="vertical-align: middle;">Simulateur <span>![alt](/00illustrations/ok.png)</span>></p>
 
 
 
