@@ -5,11 +5,11 @@
 
 
 <br>
-<p class="fragment" align="left" style="display:inline; vertical-align: middle;"> Simulateur</p>
-<img class="fragment" src="/00illustrations/ok.png" height="30" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
+<p class="fragment" align="left" style="vertical-align: middle;"> Simulateur</p>
+<img class="fragment" src="/00illustrations/ok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
 
-<p class="fragment" align="left" style="display:inline; vertical-align: middle;">Lecteur d'images</p>
-<img class="fragment" src="/00illustrations/ok.png" height="30" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
+<p class="fragment" align="left" style="vertical-align: middle;">Lecteur d'images</p>
+<img class="fragment" src="/00illustrations/ok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
 
 
 ---
