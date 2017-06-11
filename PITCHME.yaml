@@ -5,4 +5,3 @@ vertical-center : true
 
 mathjax : TeX-MML-AM_HTMLorMML-full
 
-theme-override : PITCHME.css
