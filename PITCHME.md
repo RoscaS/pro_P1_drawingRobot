@@ -380,7 +380,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## Merci de votre <span style="color:#E49436">attention</span>
+### Merci pour votre <span style="color:#E49436">attention</span>
 <br>
 <br>
 $$ Des\;questions\;? $$
