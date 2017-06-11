@@ -352,6 +352,5 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ## <span style="color:#E49436">Planning</span> futur:
 
-<p class="fragment" align="left"><img src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> test </p>
-<p class="fragment" align="left"><img src="/00illustrations/webcam.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> test </p>
-<p class="fragment" align="left"><img src="/00illustrations/scale.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> test </p>
+<img src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+
