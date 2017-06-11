@@ -37,18 +37,19 @@ Fabien Mottier – Damian Petroff
 
 <ul>
     <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Dessiner une liste de points préenregistrés
+        **[**<span class="fragment" style="color:green">**v**</span>**]** Dessiner une liste de points préenregistrés
     </li>
     <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Reproduire une image
+        **[**<span class="fragment" style="color:green">**v**</span>**]** Reproduire une image
     </li>
     <li class="fragment">
-        **[**<span style="color:red">**x**</span>**]** Dessiner une capture de la webcam
+        **[**<span class="fragment" style="color:red">**x**</span>**]** Dessiner une capture de la webcam
     </li>
     <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Reproduire un dessin de l’utilisateur
+        **[**<span class="fragment" style="color:green">**v**</span>**]** Reproduire un dessin de l’utilisateur
     </li>
 </ul>
+
 
 ---
 
@@ -164,6 +165,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 <p class="fragment"> <br>
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
+
 
 
 
