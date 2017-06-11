@@ -1,6 +1,7 @@
 
-<img class="fragment" align="left" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" style="padding-top: 100px"> ergonomie & gestion des exceptions</p>
+<img class="fragment" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+<p class="fragment" style="padding-top: 10px"> Ergonomie & gestion des exceptions</p>
+
 
 
 
