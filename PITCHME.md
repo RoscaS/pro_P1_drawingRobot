@@ -350,19 +350,8 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## Planning futur:
+## <span style="color:#E49436">Planning</span> futur:
 
-<ul>
-    <li class="fragment">
-       <img src="/00illustrations/ui.png" float="left" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> 
-       test
-    </li>
-    <li class="fragment">
-        <img src="/00illustrations/webcam.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
-        poule 
-    </li>
-    <li class="fragment">
-        <img src="/00illustrations/scale.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> 
-        cochon
-    </li>
-</ul>
+<p class="fragment" align="left"><img src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> test </p>
+<p class="fragment" align="left"><img src="/00illustrations/webcam.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> test </p>
+<p class="fragment" align="left"><img src="/00illustrations/scale.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000"> test </p>
