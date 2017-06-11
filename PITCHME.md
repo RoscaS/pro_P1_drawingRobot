@@ -13,7 +13,7 @@ Fabien Mottier – Damian Petroff
 ## Table des <span style="color:#E49436">matières</span>
 
 1. Cahier des charges
-2. Analyeses et solutions
+2. Analyses et solutions
 3. Gestion de projet
 4. Etat de l'implémentation
 5. Demonstration
@@ -383,7 +383,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-### Merci pour votre <span style="color:#E49436">attention</span>
+### <span style="color:#E49436">Merci</span> pour votre attention
 <br>
 <br>
 $$ Des\;questions\;? $$
