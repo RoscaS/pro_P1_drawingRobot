@@ -1,8 +1,6 @@
 
-<div class="fragment">
-    <img align="left" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
-    <p>testeuh bordel</p>
-</div>
+<img class="fragment" align="left" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+<p class="fragment"> ergonomie & gestion des exceptions</p>
 
 
 
