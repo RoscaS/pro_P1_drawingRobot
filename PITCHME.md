@@ -8,11 +8,15 @@ Erwan Bueche – Sol Rosca
 Fabien Mottier – Damian Petroff
 
 ---
+
+
 ## Introduction
 
 <img src="/00illustrations/robot.jpg" align="" height="400">
 
 ---
+
+
 
 ## 1. Cahier des <span style="color:#E49436">charges</span>
 
@@ -36,6 +40,8 @@ Fabien Mottier – Damian Petroff
 
 ---
 
+
+
 ## 2. Analyse et <span style="color:#E49436">solutions</span>
 
 <p class="fragment"> <br>
@@ -53,6 +59,7 @@ Modélisation du bras réalisée à l’aide de l’algorithme d'**intersection 
 </p>
 
 
+
 +++?code=01code/intCerc.cs&lang=cs 
 
 $ \rightarrow $ `circlesIntersect()`
@@ -66,7 +73,13 @@ $ \rightarrow $ `circlesIntersect()`
 @[38-43](Get the points P3)
 @[45-48](Another solution?)
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 +++
+
+
 
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
 <br>
@@ -83,11 +96,17 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 </p>
 
 
+
 +++?code=01code/sortByDist.cs&lang=cs
 
 $ \rightarrow $ `sortByDist()`
 @[3-4](List declaration)
 @[6-8](Appending coords)
+
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 
 
 +++?code=01code/nearestPoint.cs&lang=cs
@@ -97,6 +116,11 @@ $ \rightarrow $ `nearestPoint()`
 @[7-13](loop over point list & compute distances)
 @[15-27](find the smallest distance and return it to sortByDist())
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
+
 
 +++?code=01code/sortByDist.cs&lang=cs
 
@@ -104,8 +128,13 @@ $ \rightarrow $ `sortByDist()`
 
 @[10-16](sorting coords list)
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
 
 +++
+
+
 
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
 <br>
@@ -132,7 +161,14 @@ $ \rightarrow $ `sortByDist()`
 @[18-19](computing progress bar value)
 @[21-21](updating progress bar display)
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 +++
+
+
+
 
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
 <br>
@@ -152,8 +188,13 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 - Solution approximée |
 - Démarrage du dessin instantané |
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
 
 +++
+
+
 
 ### 2.3 Gestion <span style="color:#E49436"> temps réel </span> des données 
 
@@ -175,6 +216,10 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
     }
 ```
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 +++
 
 ### 2.4 Tramage 
@@ -192,6 +237,10 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 
 <p class="fragment" align="right" style="color:#E49436">**Exemple dans la démonstration**</p>
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 +++
 
 <h3><span class="fragment">2.5 </span><span style="color:#3c8eb3">Blue</span><span class="fragment">tooth</span></h3>
@@ -202,6 +251,9 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 <br>
 <br>
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
 
 +++?code=01code/bluethoot-co.cs&lang=cs
 $ \rightarrow $ `btnBluetooth()`
@@ -217,6 +269,10 @@ $ \rightarrow $ `btnBluetooth()`
 @[39-45](If connection faild, display error)
 @[48-58](if pairing faild, display error)
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 +++?code=01code/bluethoot-send.cs&lang=cs
 $ \rightarrow $ `btnSendData_Click_1()`
 
@@ -230,6 +286,11 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 
 ## 3. Gestion de projet
+<br><br><br>
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 
 +++
 
@@ -242,11 +303,19 @@ $ \rightarrow $ `btnSendData_Click_1()`
 <br>
 <img class="fragment" src="/00illustrations/github.png" height="70px" style="border: none; box-shadow: 0px 0px 0px #000">
 
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
+
 +++
 
 ### 3.2 Git<span style="color:#E49436">hub</span> network view
 
 <img src="/00illustrations/gh-net.gif" style="border: none">
+
+<p class="fragment">
+<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
+</p>
 
 +++
 
