@@ -1,6 +1,6 @@
 
 <img class="fragment" align="left" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" style="padding: 80px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
+<p class="fragment" align="left" style="padding-top: 80px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
 
 
 
