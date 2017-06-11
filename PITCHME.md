@@ -7,10 +7,10 @@
 
 
 
-<p class="fragment" align="left" style="vertical-align: middle;"> Simulateur</p>
+<p class="fragment" align="left" style="vertical-align: middle;">Simulateur <img align="middle" src="/00illustrations/ok.png" height="40" style="border: none;box-shadow: 0px 0px 0px #000; vertical-align: middle;"></p>
 
 
-<span class="fragment"><img align="middle" src="/00illustrations/ok.png" height="40" style="border: none;box-shadow: 0px 0px 0px #000; vertical-align: middle;"></span>
+
 
 
 
