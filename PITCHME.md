@@ -11,4 +11,5 @@
 
 ### Github network view
 
-<img src="/00illustrations/git-net.gif" >
+<img src="/00illustrations/git-net.gif">
+![](/00illustrations/git-net.gif)
