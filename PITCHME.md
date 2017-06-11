@@ -287,9 +287,6 @@ $ \rightarrow $ `btnBluetooth()`
 </p>
 
 
-<img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
-</p>
-
 +++?code=01code/bluethoot-send.cs&lang=cs
 $ \rightarrow $ `btnSendData_Click_1()`
 
