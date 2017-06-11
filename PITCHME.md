@@ -10,6 +10,17 @@ Fabien Mottier – Damian Petroff
 
 ---
 
+## Table des <span style="color:#E49436">matières</span>
+
+1. Cahier des charges
+2. Analyeses et solutions
+3. Gestion de projet
+4. Etat de l'implémentation
+5. Demonstration
+6. Planning futur
+
+
+---
 
 ## Introduction
 
