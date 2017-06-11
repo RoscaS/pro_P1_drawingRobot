@@ -1,7 +1,7 @@
 ## <span style="color:#E49436">Planning</span> futur
 
 <br>
-<img class="fragment" align="left" float="left" src="/00illustrations/ui.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-top:20px">
+<img class="fragment" align="left" float="left" src="/00illustrations/ui.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; padding-top:20px; padding-right: 20px;">
 <p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
 
 
