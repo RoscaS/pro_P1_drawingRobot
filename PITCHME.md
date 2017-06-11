@@ -1,3 +1,8 @@
+
+<img class="fragment" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+
+---
+
 ## $ Vinci$ <span style="color:#E49436"> $ Code $</span>
 <br>
 ###Projet P1 <span style="color:#DC0062">DLM</span> 2016-2017
@@ -352,5 +357,5 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ## <span style="color:#E49436">Planning</span> futur:
 
-<img src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
+<img class="fragment" src="/00illustrations/ui.png" height="auto" style="border: none; box-shadow: 0px 0px 0px #000">
 
