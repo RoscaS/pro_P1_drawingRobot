@@ -4,12 +4,16 @@
 <p class="fragment" align="left"> Programme fonctionnel mais pas encore foolproof </p>
 
 
-<br>
+<img src="00illustrations/ok.png" alt="" style="width:32px;height:32px;float:left;">
+<p style="margin:0px;height:32px;max-idth:100%;float:left;overflow:auto;">Simulateur</p>
+
+
+<!--<br>
 <p class="fragment" style="text-align:left;"> Simulateur</p>
 <img class="fragment" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000">
 
 <p class="fragment" style="text-align:left; display:block; position:relative;">Lecteur d'images</p>
-<img class="fragment" align="right" float="right" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; display:block; position:relative;">
+<img class="fragment" align="right" float="right" src="/00illustrations/ok.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000; display:block; position:relative;">-->
 
 
 ---
