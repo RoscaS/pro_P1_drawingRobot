@@ -2,7 +2,7 @@
 
 <br>
 <img class="fragment" align="left" float="left" src="/00illustrations/ui.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:-10px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-bottom:20px"> <span style="color:#E49436"> Ergonomie</span> & gestion des exceptions</p>
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/webcam.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000">
