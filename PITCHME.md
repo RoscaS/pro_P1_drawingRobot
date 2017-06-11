@@ -13,13 +13,11 @@
 <p class="fragment" align="left" style="display:inline; text-align:left; display:inline; vertical-align: middle;">Dessin à la souris</p>
 <img class="fragment" src="/00illustrations/ok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
 
-<p class="fragment" align="left" style="display:inline; text-align:left; display:inline; vertical-align: middle;">Sauvegarde de liste: Problèmes de scaling</p>
-<img class="fragment" src="/00illustrations/close.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
-
-<p class="fragment" align="left" style="display:inline; text-align:left; display:inline; vertical-align: middle;">Webcam: Pas implémentée</p>
+<p class="fragment" align="left" style="display:inline; text-align:left; display:inline; vertical-align: middle;">Webcam: _Pas implémentée_</p>
 <img class="fragment" src="/00illustrations/nok.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
 
-
+<p class="fragment" align="left" style="display:inline; text-align:left; display:inline; vertical-align: middle;">Sauvegarde de liste: _Problèmes de scaling_</p>
+<img class="fragment" src="/00illustrations/close.png" height="40" style="border: none; box-shadow: 0px 0px 0px #000; display:inline; vertical-align: middle; ; padding-left:60px">
 
 
 
