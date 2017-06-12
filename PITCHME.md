@@ -292,8 +292,8 @@ $ \rightarrow $ `btnBluetooth()`
 $ \rightarrow $ `btnSendData_Click_1()`
 
 @[11-11](New thread)
-@[30-36](Buffering)
-@[30-36](Buffering)
+@[30-35](Writing)
+@[36-37](Reading)
 @[66-76](Invoke 1)
 
 ---
@@ -371,7 +371,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/webcam2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000">
-<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implementation <span style="color:#E49436">web</span>cam</p>
+<p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Implémentation <span style="color:#E49436">web</span>cam</p>
 
 
 <img class="fragment" align="left" float="left" src="/00illustrations/scale2.png" height="50" style="border: none; box-shadow: 0px 0px 0px #000">
