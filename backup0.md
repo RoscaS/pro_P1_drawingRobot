@@ -80,7 +80,7 @@ $ \rightarrow $ `circlesIntersect()`
 @[9-14](No solution case 1: $\quad$ circles too far apart)
 @[16-21](No solution case 2: $\quad$ one circle $\subset$ the other)
 @[23-28](No solution case 3: $\quad$ circle 1 $\equiv$ circle 2)
-@[30-30](Else: $\quad$ find first interesection)
+@[30-30](Else: $\quad$ there is at least one solution)
 @[32-33](Find $\large a $ and $\large h $)
 
 +++
@@ -91,6 +91,7 @@ $ \rightarrow $ `circlesIntersect()`
 
 @[35-36](Find P2)
 @[38-43](Get the points P3)
+@[45-48](Another solution?)
 
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
