@@ -387,7 +387,7 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 ---
 
-## Place à la <span style="color:#E49436">démonstration<\span>
+## Place à la <span style="color:#E49436">démo</span>nstration
 
 ---
 
