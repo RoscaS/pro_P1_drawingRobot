@@ -33,7 +33,6 @@ private void btnSendData(object sender, EventArgs e)
             {
                 stream.Write(msg, 0, msg.Length);
             }
-
             byte[] rsp = new byte[128];
             string msgOK;
             //attend que le robot réponde
@@ -65,22 +64,17 @@ private void btnSendData(object sender, EventArgs e)
                 if (!stopTransmitting)
                 {   //écriture des logs                    
                     Invoke((MethodInvoker)delegate 
-                    {   // Running on the UI thread
-                        
+                    {   
                         string log = "";
                         log = strLine + " ; " + msgOK;
                         lstbxDrawPoint.Items.Add(log);
-                        // scroll automatique du listbox -- 
-                        // le clignotement vient d'ici !
                         int nItems = 
                             (int)(lstbxDrawPoint.Height / 
                             lstbxDrawPoint.ItemHeight);
-
                         lstbxDrawPoint.TopIndex = 
                             lstbxDrawPoint.Items.Count - 
                                 nItems;
                     });
-
                 }
             }
         }

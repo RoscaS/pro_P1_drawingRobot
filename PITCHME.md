@@ -189,10 +189,9 @@ $ \rightarrow $ `sortByDist()`
 
 
 
-
 ### 2.2 Déplacement du bras du <span style="color:#E49436">robot</span>
 <br>
-Classement des points dans une liste ordonnée qui optimise le déplacement du bras (_algo approximatif_).
+Classement des points dans une liste ordonnée qui optimise le déplacement du bras.
 
 <ol>
     <li>
@@ -206,7 +205,7 @@ Classement des points dans une liste ordonnée qui optimise le déplacement du b
 
 <p align="left">Amélioration possible: <span class="fragment" style="color:#E49436">**Dijkstra**</span></p>
 
-- Solution approximée |
+- Vision d'ensemble des solutions possible |
 - Démarrage du dessin instantané |
 
 <p class="fragment">
@@ -294,6 +293,13 @@ $ \rightarrow $ `btnBluetooth()`
 
 +++?code=01code/bluethoot-send.cs&lang=cs
 $ \rightarrow $ `btnSendData_Click_1()`
+
+@[11-11](New thread)
+@[30-36](Buffering)
+@[30-36](Buffering)
+@[66-76](Invoke 1)
+
+
 
 @[3-9](setup send process)
 @[11-12](initialising new thread)
