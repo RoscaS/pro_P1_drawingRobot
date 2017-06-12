@@ -62,14 +62,16 @@ Fabien Mottier – Damian Petroff
 +++
 
 ### 2.1 Simulateur:
-Modélisation du bras réalisée à l’aide de l’algorithme d'**intersection des cercles**
+Modélisation articulation du bras réalisée à l’aide de l’algorithme d'**intersection des cercles**
 <br>
 
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
 
++++
 
+![alt](https://i.stack.imgur.com/aUXMY.gif)
 
 +++?code=01code/intCerc.cs&lang=cs 
 
@@ -78,6 +80,13 @@ $ \rightarrow $ `circlesIntersect()`
 @[9-14](No solution case 1: $\quad$ circles too far apart)
 @[16-21](No solution case 2: $\quad$ one circle $\subset$ the other)
 @[23-28](No solution case 3: $\quad$ circle 1 $\equiv$ circle 2)
+
++++
+
+![alt](https://i.stack.imgur.com/aUXMY.gif)
+
++++?code=01code/intCerc.cs&lang=cs 
+
 @[30-30](Else: $\quad$ there is at least one solution)
 @[32-33](Find $\large a $ and $\large h $)
 @[35-36](Find P2)

@@ -271,20 +271,18 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 +++?code=01code/bluethoot-co.cs&lang=cs
 $ \rightarrow $ `btnBluetooth()`
 
-@[3-6](Pairing)
+@[3-6](Synchronisation)
 @[8-10](Options)
 @[12-15](Check if paired & authentificated)
 @[17-18](Get device adress)
 @[20-20](Initialise client)
 @[22-24](Initialise endPoint)
 @[26-31](Change cursor state & Try to connect to device)
-@[33-36](If connection ok, enble ui send btn)
-@[39-45](If connection faild, display error)
-@[48-58](if pairing faild, display error)
 
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
 </p>
+
 
 +++?code=01code/bluethoot-send.cs&lang=cs
 $ \rightarrow $ `btnSendData_Click_1()`
@@ -296,7 +294,6 @@ $ \rightarrow $ `btnSendData_Click_1()`
 @[1-1](A CONTINUER)
 
 ---
-
 
 ## 3. <span style="color:#E49436">Gestion</span> de projet
 <br><br><br>
@@ -345,19 +342,19 @@ $ \rightarrow $ `btnSendData_Click_1()`
 
 <ul>
     <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Simulateur
+        **[**<span class="fragment" style="color:green">**v**</span>**]** Simulateur
     </li>
     <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Lecture d'image
+        **[**<span class="fragment" style="color:green">**v**</span>**]** Lecture d'image et liste de points
     </li>
     <li class="fragment">
-        **[**<span style="color:green">**v**</span>**]** Dessin à la souris
+        **[**<span class="fragment" style="color:green">**v**</span>**]** Dessin à la souris
     </li>
     <li class="fragment">
-        **[**<span style="color:#E49436">**-**</span>**]** Sauvegarde de liste: Problèmes de scaling
+        **[**<span class="fragment" style="color:#E49436">**-**</span>**]** Sauvegarde de liste: Problèmes de scaling
     </li>
     <li class="fragment">
-        **[**<span style="color:red">**x**</span>**]** Webcam: Pas implémenté
+        **[**<span class="fragment" style="color:red">**x**</span>**]** Webcam: Pas implémenté
     </li>
 </ul>
 
@@ -378,6 +375,16 @@ $ \rightarrow $ `btnSendData_Click_1()`
 <p class="fragment" align="left" float="left" style="padding-left: 100px; padding-top:10px"> Fine tuning du scaling via fichier <span style="color:#E49436">listes</span></p>
 
 <br>
+
+---
+
+## <span style="color:#DC0062">HES</span> d'été
+
+<img src="/00illustrations/plan.png" style="border: none">
+
+---
+
+## Place à la <span style="color:#E49436">démonstration<\span>
 
 ---
 

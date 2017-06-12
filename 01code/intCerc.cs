@@ -4,7 +4,7 @@ private int circlesIntersect(float cx0, float cy0, float r0,
 {
     float dx    = cx0 - cx1;
     float dy    = cy0 - cy1;
-    double dist = Math.Sqrt(dx * dx + dy * dy);
+    double dist = Math.Sqrt(dx*dx + dy*dy);
     
     if (dist > r0 + r1)
     {   
