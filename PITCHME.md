@@ -278,8 +278,7 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 +++?code=01code/bluethoot-co.cs&lang=cs
 $ \rightarrow $ `btnBluetooth()`
 
-@[3-6](Synchronisation)
-@[12-15](Select device)
+@[3-15](Select device)
 @[17-18](Get device adress)
 @[20-20](Initialise client)
 @[22-24](Initialise endPoint)
