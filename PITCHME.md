@@ -279,12 +279,10 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 $ \rightarrow $ `btnBluetooth()`
 
 @[3-6](Synchronisation)
-@[8-10](Options)
-@[12-15](Check if paired & authentificated)
+@[12-15](Select device)
 @[17-18](Get device adress)
 @[20-20](Initialise client)
 @[22-24](Initialise endPoint)
-@[26-31](Change cursor state & Try to connect to device)
 
 <p class="fragment">
 <img src="/00illustrations/down-arrow.png" height="auto" style="border: none">
