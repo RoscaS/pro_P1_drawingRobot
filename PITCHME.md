@@ -278,7 +278,7 @@ List<PixelPointF> DrawPointList = new List<PixelPointF>();
 +++?code=01code/bluethoot-co.cs&lang=cs
 $ \rightarrow $ `btnBluetooth()`
 
-@[3-15](Select device)
+@[3-14](Select device)
 @[17-18](Get device adress)
 @[20-20](Initialise client)
 @[22-24](Initialise endPoint)
@@ -295,14 +295,6 @@ $ \rightarrow $ `btnSendData_Click_1()`
 @[30-36](Buffering)
 @[30-36](Buffering)
 @[66-76](Invoke 1)
-
-
-
-@[3-9](setup send process)
-@[11-12](initialising new thread)
-@[22-27](read line in txt file)
-@[29-37](find line that starts with ".")
-@[1-1](A CONTINUER)
 
 ---
 
