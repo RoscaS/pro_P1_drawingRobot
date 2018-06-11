@@ -19,6 +19,8 @@ Fabien Mottier – Damian Petroff
 
 ## Table des <span style="color:#E49436">matières</span>
 
+<div class='poule'>Lalala</div>
+
 1. Cahier des charges
 2. Analyses et solutions
 3. Gestion de projet
@@ -26,7 +28,6 @@ Fabien Mottier – Damian Petroff
 5. Demonstration
 6. Planning futur
 
-<div class='poule'>Lalala</div>
 
 
 ---
