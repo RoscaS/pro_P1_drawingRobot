@@ -1,7 +1,7 @@
 <style>
 .poule {
     color: green;
-    margin-right: 30px;
+    padding-right: 30px;
 }
 </style>
 
